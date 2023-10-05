@@ -11,9 +11,6 @@ Software Engineering Student.
 * 🧠  I'm learning HTML & CSS
 * ⚡  Multilingual: Haitian Creole, French, English, Spanish, Arabic
 
-<a href="https://www.github.com/GregoryAlexandre369" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GregoryAlexandre369?logo=github&style=for-the-badge&color=ec4899&labelColor=27272a" /></a>
-
 ### Skills
 
 
