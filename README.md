@@ -1,4 +1,4 @@
-# Greetings! 👋 I'm Fritz Gerald Alexandre
+# Greetings! 👋 I'm Gregory Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 
@@ -29,7 +29,7 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🇫🇷 French
 - 🇪🇸 Spanish
 - 🇺🇸 English
-- 🇧🇷 Brazilian Portuguese
+- 🇸🇦 Arabic (Fusha)
 
 ## GitHub Stats
 
