@@ -1,3 +1,5 @@
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="100px" style="border-radius: 20px;">
+
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="150px" style="border-radius: 20px;">
 
 # Greetings! 👋 I'm Gregory Alexandre
