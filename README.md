@@ -30,7 +30,7 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🔄 **Methodologies:** Implementing Agile development and design thinking to adapt to changes swiftly and deliver high-quality products.
 
 ## Language Proficiency
- <img align="left" alt="GIF" width="200px" height="200px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
+ <img align="left" alt="GIF" width="120px" height="120px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
 - 🇭🇹 Haitian Creole
 - 🇫🇷 French
 - 🇪🇸 Spanish
