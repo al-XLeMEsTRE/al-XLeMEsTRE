@@ -8,7 +8,7 @@
 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 
 🚀 Welcome to my GitHub repository of creativity and code!
-<img align="center" alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="GIF" width="200px" height="200px">
+<img align="right" alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="GIF" width="200px" height="200px">
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
@@ -30,13 +30,12 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🔄 **Methodologies:** Implementing Agile development and design thinking to adapt to changes swiftly and deliver high-quality products.
 
 ## Language Proficiency
-
+ <img align="right" alt="GIF" width="200px" height="200px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
 - 🇭🇹 Haitian Creole
 - 🇫🇷 French
 - 🇪🇸 Spanish
 - 🇺🇸 English
 - 🇸🇦 Arabic (Fusha)
-  <img align="right" alt="GIF" width="200px" height="200px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
 
 ## GitHub Stats
 
