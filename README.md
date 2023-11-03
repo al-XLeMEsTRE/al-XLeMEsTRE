@@ -1,4 +1,4 @@
-![logo] (https://github.com/GregoryAlexandre369/GregoryAlexandre369#:~:text=Commit%20time-,Logo.png,-Add%20files%20via)
+<img align="right" alt="logo" widtg="400px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
 # Greetings! 👋 I'm Gregory Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
