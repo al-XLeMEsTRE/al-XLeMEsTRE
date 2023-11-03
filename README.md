@@ -1,6 +1,8 @@
 ![logo](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg)
 # Greetings! 👋 I'm Gregory Alexandre
+
 <img align="right" alt="logo" width="300px" height="300px" style="border: 20px solid white; background: linear-gradient(to right, yellow, orange); padding: 20px;" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
+
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 ##
 🚀 Welcome to my GitHub repository of creativity and code!
