@@ -1,30 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gregory Alexandre
-=========================================================================================================================================
+# Hi there! 👋 I'm Gregory Alexandre
 
-Software Engineering Student.
------------------------------
+I'm a passionate full-stack web development student with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
 
-"Gregory Alexandre: Abstract and Surrealist Artist turned Developer. Merging the depth of art with the precision of code, I push the boundaries of digital expression. Combining creativity with technology, I craft unique software solutions on GitHub."
+## About Me
 
-* 🌍  I'm based in Brooklyn, New York
-* ✉️  You can contact me at [gregoryalexandre369@gmail.com](mailto:gregoryalexandre369@gmail.com)
-* 🧠  I'm learning HTML & CSS
-* ⚡  Multilingual: Haitian Creole, French, English, Spanish, Arabic
+- 💼 Full stack web developer student at [TripleTen](https://tripleten.com/)
+- 🚀 Passionate about web development and open-source projects
+- 🌱 I'm currently learning JavaScript Program Logic and Methods
 
-### Skills
+## Language Proficiency
 
+- 🇭🇹 Haitian Creole
+- 🇫🇷 French
+- 🇪🇸 Spanish
+- 🇺🇸 English
+- 🇧🇷 Brazilian Portuguese
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-</p>
+## My Skills
 
+- 💻 Front-end Development (HTML5, CSS3, JavaScript, React)
+- 🧰 UI/UX Design (Figma)
+- 🖥️ Visual Studio Code
+- 🤖 ChatGPT with OpenAI
 
-### Socials
+## Languages and Tools
 
-<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Gregory Alexandre" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/GregoryAlexandre369" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/al_x_lemestre/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gregoryalexandre369/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Figma
 
-### Badges
+## GitHub Stats
 
-<b>My GitHub Stats</b>
+[Your GitHub stats here - Typically added with GitHub Stats Card]
 
-<a href="http://www.github.com/GregoryAlexandre369"><img src="https://github-readme-stats.vercel.app/api?username=GregoryAlexandre369&show_icons=true&hide=commits,&title_color=ffffff&text_color=14b8a6&icon_color=ec4899&bg_color=27272a&hide_border=true&show_icons=true" alt="GregoryAlexandre369's GitHub stats" /></a>
+## Recent Projects
+
+### Project 1: Practicum Library
+
+The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
+
+**Project features**
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Vertical stacking with z-index
+
+### Project 2: La Terracafe de Practicum
+
+This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
+
+**Project features**
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Flat BEM
+- A custom form
+- CSS animation and transform
+
+**Plan on improving the project**
+- Adding media queries to make it responsive :)
+- Link each item on the menu to a corresponding matching image.
+- Adding some CSS animation to the videos.
+
+### Project 3: Around The U.S.
+
+This is my 3rd project in the full-stack Web development boot camp at TripleTen. This project allows me to put into practice the technology that I learned during the third sprint at TripleTen.
+
+**Technology Used**
+- HTML
+- CSS
+- Javascript
+
+Below you will find links to both the project on GitHub pages and the Figma file.
+
+- [Link to GitHub page](#)
+- [Link to the project on Figma](#)
+
+## Let's Connect
+
+Feel free to reach out to me on any of the platforms below. I'd love to connect and collaborate!
+
+- [LinkedIn](#)
+- [Twitter](#)
