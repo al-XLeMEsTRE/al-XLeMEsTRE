@@ -1,4 +1,4 @@
-![logo](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg)
+![logo](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg)
 # Greetings! 👋 I'm Gregory Alexandre
 
 <img align="right" alt="logo" width="200px" height="200px" style="border: 20px solid white; background: linear-gradient(to right, yellow, orange); padding: 20px;" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
