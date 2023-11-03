@@ -36,7 +36,7 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🇪🇸 Spanish
 - 🇺🇸 English
 - 🇸🇦 Arabic (Fusha)
-- <img align="right" alt="gif" src="https://giphy.com/gifs/wikipedia-talking-talk-speaking-mNfvtK90scVTF20Jye/giphy.gif" alt="GIF" width="200px" height="200px">
+  <img align="right" alt="GIF" width="200px" height="200px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
 
 ## GitHub Stats
 
