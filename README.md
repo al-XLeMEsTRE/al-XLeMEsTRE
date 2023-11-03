@@ -6,10 +6,10 @@
 # Greetings! 👋 I'm Gregory Alexandre
 
 <img align="right" alt="logo" width="200px" height="200px" style="border: 20px solid white; background: linear-gradient(to right, yellow, orange); padding: 20px;" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
-<img align="right" alt="logo" width="200px" height="200px" style="border: 20px solid white; background: linear-gradient(to right, yellow, orange); padding: 20px;" src="https://giphy.com/gifs/pudgypenguins-glitch-matrix-cyber-8dPbkqUb2p5XTvIXLx">
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 ##
 🚀 Welcome to my GitHub repository of creativity and code!
+<img align="right" alt="logo" width="200px" height="200px" style="border: 20px solid white; background: linear-gradient(to right, yellow, orange); padding: 20px;" src="[https://giphy.com/gifs/pudgypenguins-glitch-matrix-cyber-8dPbkqUb2p5XTvIXLx]">
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
