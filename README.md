@@ -1,6 +1,7 @@
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="80px" style="border-radius: 20px;">
-
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800px" height="90px" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="50px" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800px" height="60px" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="70px" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800px" height="80px" style="border-radius: 20px;">
 
 # Greetings! 👋 I'm Gregory Alexandre
 
