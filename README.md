@@ -1,6 +1,7 @@
 # Greetings! 👋 I'm Fritz Gerald Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
+
 🚀 Welcome to my GitHub repository of creativity and code!
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
