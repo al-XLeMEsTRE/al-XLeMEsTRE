@@ -37,7 +37,7 @@ I'm a passionate full-stack web development student with a love for creating ele
 
 ## Recent Projects
 
-### Project 1: Practicum Library
+### Project 1: Triple Ten [Library]
 
 The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
 
@@ -47,9 +47,9 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 - Positioning
 - Vertical stacking with z-index
 
-### Project 2: La Terracafe de Practicum
+### Project 2: Triple Ten [Coffee Shop]
 
-This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
+This is the second project of the Web Development program at Triple Ten. It was created using HTML and CSS, based on the design brief.
 
 **Project features**
 - Semantic HTML5
@@ -64,18 +64,10 @@ This is the second project of the Web Development program at Practicum. It was c
 - Link each item on the menu to a corresponding matching image.
 - Adding some CSS animation to the videos.
 
-### Project 3: Around The U.S.
-
-This is my 3rd project in the full-stack Web development boot camp at TripleTen. This project allows me to put into practice the technology that I learned during the third sprint at TripleTen.
-
-**Technology Used**
-- HTML
-- CSS
-- Javascript
 
 Below you will find links to both the project on GitHub pages and the Figma file.
 
-- [Link to GitHub page](#)
+- [Link to GitHub page]()
 - [Link to the project on Figma](#)
 
 ## Let's Connect
