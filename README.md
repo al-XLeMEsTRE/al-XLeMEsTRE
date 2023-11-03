@@ -1,3 +1,4 @@
+! [logo] (https://github.com/GregoryAlexandre369/GregoryAlexandre369#:~:text=Commit%20time-,Logo.png,-Add%20files%20via)
 # Greetings! 👋 I'm Gregory Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
