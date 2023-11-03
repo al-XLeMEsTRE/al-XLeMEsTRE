@@ -41,13 +41,13 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 
 A showcase of semantic HTML5 and CSS Flexbox based on a design brief for the Software Engineer program at TripleTen.
 
-[View Project](gregoryalexandre369.github.io/Library/)
+[View Project](https://github.com/GregoryAlexandre369/Library.git)
 
 ### ☕ Triple Ten [Coffee Shop]
 
 Implemented advanced CSS techniques and animations to deliver an engaging user experience.
 
-[View Project](gregoryalexandre369.github.io/Coffee-Shop/)
+[View Project](https://github.com/GregoryAlexandre369/Coffee-Shop.git)
 
 ### 🌍 Coming Soon: Artistry Meets Technology
 
