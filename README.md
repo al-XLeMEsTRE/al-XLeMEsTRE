@@ -1,4 +1,4 @@
-<img align="right" alt="logo" widtg="300px" height="300px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
+<img align="right" alt="logo" widtg="300px" height="300px" color="white" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Logo.png">
 # Greetings! 👋 I'm Gregory Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
