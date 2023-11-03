@@ -1,8 +1,9 @@
 # Greetings! 👋 I'm Fritz Gerald Alexandre
 
-🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 🚀 Welcome to my GitHub repository of creativity and code!
+🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
+🚀 Welcome to my GitHub repository of creativity and code!
 
-As an abstract, surrealist, and symbolism artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
+As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
 ## About Me
 
@@ -13,13 +14,13 @@ As an abstract, surrealist, and symbolism artist, I bring a unique perspective t
 
 ## Technical Toolbox
 
-- 💻 **Front-end Development:** HTML5, CSS3, JavaScript, React
-- 🧰 **UI/UX Design:** Figma, Adobe Suite
-- 🖥️ **IDE:** Visual Studio Code
-- 🤖 **Artificial Intelligence:** ChatGPT with OpenAI
-- 📚 **Version Control:** Proficient with Git and GitHub
-- 📈 **Data Structures & Algorithms:** Committed to efficient and logical code
-- 🔄 **Methodologies:** Agile development and design thinking
+- 💻 **Front-end Development:** Mastery over HTML5, CSS3, JavaScript, and React for building dynamic and responsive interfaces.
+- 🧰 **UI/UX Design & Illustration:** Proficient in Figma and Adobe Suite (Photoshop, Illustrator, and XD) for creating compelling user experiences and vibrant digital illustrations.
+- 🖥️ **IDE:** Skilled in using Visual Studio Code for an efficient and optimized development environment.
+- 🤖 **Artificial Intelligence:** Exploring the possibilities with ChatGPT and OpenAI, integrating AI into web solutions.
+- 📚 **Version Control:** Proficient with Git and GitHub for maintaining robust version control and collaborative development workflows.
+- 🌟 **Hospitality Skills:** Translating my customer service excellence, attention to detail, and ability to anticipate user needs into creating intuitive and user-friendly digital experiences.
+- 🔄 **Methodologies:** Implementing Agile development and design thinking to adapt to changes swiftly and deliver high-quality products.
 
 ## Language Proficiency
 
