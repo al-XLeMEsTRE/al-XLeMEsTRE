@@ -35,7 +35,7 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🇪🇸 Spanish
 - 🇺🇸 English
 - 🇸🇦 Arabic (Fusha)
-<img align="center" alt="GIF" width="120px" height="120px" src="https://media.giphy.com/media/mNfvtK90scVTF20Jye/giphy.gif">
+<img align="center" alt="GIF" width="120px" height="120px" src="https://media2.giphy.com/media/sP39BLHaHyKhI5Qj0A/200w.webp?cid=ecf05e47dx3avrhyr7kfs6pyc816atjcw1xlibydl95pdp3p&ep=v1_gifs_search&rid=200w.webp&ct=g/giphy.gif">
 ## GitHub Stats
 
 [Insert GitHub stats here - Use a GitHub Stats Card]
