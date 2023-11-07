@@ -4,10 +4,6 @@
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" height="3" style="border-radius: 20px;">
 
 # Greetings! 👋 I'm Gregory Alexandre <img align="center" alt="logo" width="80px" height="100px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Untitled.png">
-<p align="right">
-  <img alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="100">
-</p>
-
 🎨 
 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 
@@ -15,7 +11,9 @@ Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Spe
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
-## About Me
+## About Me <p align="right">
+  <img alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="100">
+</p>
 
 - 💼 Full-Stack Web Developer in training at [TripleTen](https://tripleten.com/)
 - 🌐 Passionate about the intersection of web development, open-source, and the arts
