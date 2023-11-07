@@ -17,8 +17,11 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🌐 Passionate about the intersection of web development, open-source, and the arts
 - 🖥️ Currently mastering JavaScript Program Logic and Methods
 - 🧬 Exploring the synergy between nature's patterns and computational logic
-<p align="right"> <img alt="gif" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I/giphy.gif" height="200" width="200">
+  
+<p align="right">
+  <img alt="coding gif" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="200" width="200">
 </p>
+
 ## Technical Toolbox
 
 - 💻 **Front-end Development:** Mastery over HTML5, CSS3, JavaScript, and React for building dynamic and responsive interfaces.
