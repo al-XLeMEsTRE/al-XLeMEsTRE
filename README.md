@@ -51,7 +51,7 @@ A showcase of semantic HTML5 and CSS Flexbox based on a design brief for the Sof
 
 Implemented advanced CSS techniques and animations to deliver an engaging user experience.
 
-[View Project](https://github.com/GregoryAlexandre369/Coffee-Shop.git)
+[View Project](https://gregoryalexandre369.github.io/Coffee_Shop/)
 
 ### 🌍 Coming Soon: Artistry Meets Technology
 
