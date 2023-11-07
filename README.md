@@ -5,6 +5,8 @@
 # Greetings! 👋 I'm Gregory Alexandre
 <img align="center" alt="logo" width="80px" height="100px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Untitled.png">
 <img align="right" alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" alt="GIF" width="100px" height="100px">
+[Download LOGO Portfolio vector file](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/LOGO%20Portfolio.ai)
+
 🎨 
 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 
