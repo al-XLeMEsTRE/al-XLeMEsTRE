@@ -3,7 +3,7 @@
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800px" height="30px" style="border-radius: 20px;">
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800px" height="40px" style="border-radius: 20px;">
 # Greetings! 👋 I'm Gregory Alexandre
-<img align="right" alt="logo" width="200px" height="200px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/LOGO%20Portfolio.ai">
+<img align="right" alt="logo" width="200px" height="200px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Untitled.png">
 🎨 
 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist. 
 
