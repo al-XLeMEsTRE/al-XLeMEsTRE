@@ -1,7 +1,7 @@
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800" style="border-radius: 20px;">
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" style="border-radius: 20px;">
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800" style="border-radius: 20px;">
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800" height="10" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" height="7" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800" height="5" style="border-radius: 20px;">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" height="3" style="border-radius: 20px;">
 
 # Greetings! 👋 I'm Gregory Alexandre
 <img align="center" alt="logo" width="80px" height="100px" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Untitled.png">
@@ -11,12 +11,6 @@
 <p align="right">
   <img alt="gif" src="https://media.giphy.com/media/8dPbkqUb2p5XTvIXLx/giphy.gif" width="100">
 </p>
-
-
-<p align="center">
-  <img alt="logo" width="80" src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Untitled.png">
-</p>
-
 
 
 🎨 
