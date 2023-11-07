@@ -12,9 +12,6 @@ Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Spe
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
-<p align="right">
-  <img alt="glitch typography gif" src="https://media.giphy.com/media/O2hRZvefwRVgexaHjg/giphy.gif" height="100" width="
-
 ## About Me   
 - 💼 Full-Stack Web Developer in training at [TripleTen](https://tripleten.com/)
 - 🌐 Passionate about the intersection of web development, open-source, and the arts
