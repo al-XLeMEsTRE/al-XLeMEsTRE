@@ -27,6 +27,29 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🌟 **Hospitality Skills:** Translating my customer service excellence, attention to detail, and ability to anticipate user needs into creating intuitive and user-friendly digital experiences.
 - 🔄 **Methodologies:** Implementing Agile development and design thinking to adapt to changes swiftly and deliver high-quality products.
 
+
+
+
+
+## About Me
+- 💼 **Web Development Trainee** at [TripleTen](https://tripleten.com/), honing my full-stack skills.
+- 🌐 Combining **Web Development, Open-Source, and the Arts** with passion.
+- 🖥️ Focused on **JavaScript Program Logic and Methods**.
+- 🧬 Interested in the **interplay between nature's patterns and computational logic**.
+
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" width="200" height="250" align="right">
+
+## Technical Toolbox
+
+- 💻 **Front-End Development:** HTML5, CSS3, JavaScript, React.
+- 🧰 **UI/UX Design & Illustration:** Figma, Adobe Suite (Photoshop, Illustrator, XD).
+- 🖥️ **IDE Skills:** Proficient in Visual Studio Code.
+- 🤖 **Artificial Intelligence:** Exploring ChatGPT and OpenAI integrations.
+- 📚 **Version Control:** Skilled in Git and GitHub.
+- 🌟 **Hospitality Skills:** Applying customer service excellence to UX.
+- 🔄 **Methodologies:** Agile and design thinking for adaptive, quality output.
+
+
 ## Language Proficiency
 - 🇭🇹 Haitian Creole
 - 🇫🇷 French
