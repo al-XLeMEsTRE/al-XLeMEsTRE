@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="left">
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" wwidth="200" height="250" align="left">
-# Greetings! 👋 I'm Gregory Alexandre
+
+## Greetings! 👋 I'm Gregory Alexandre
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist.
 
