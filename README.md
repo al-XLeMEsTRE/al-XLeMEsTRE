@@ -5,6 +5,9 @@
 
 # Greetings! 👋 I'm Gregory Alexandre
 <img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="right">
+
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" wwidth="200" height="250" align="right">
+
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist.
 
 🚀 Welcome to my GitHub repository of creativity and code!
