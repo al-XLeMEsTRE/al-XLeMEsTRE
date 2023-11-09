@@ -2,7 +2,7 @@
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" height="7" style="border-radius: 20px;">
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_2106.jpeg" alt="logo" width="800" height="5" style="border-radius: 20px;">
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/IMG_1354.jpeg" alt="logo" width="800" height="3" style="border-radius: 20px;">
-<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo">
+<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="right >
 
 
 
