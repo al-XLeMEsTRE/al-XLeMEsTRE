@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="right">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" width="200" height="250" align="left">
 
 <h1 align="left">
   <span style="color: #28a745;">Greetings! 👋 I'm Gregory Alexandre</span>
@@ -15,8 +15,8 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🌐 Combining **Web Development, Open-Source, and the Arts** with passion.
 - 🖥️ Focused on **JavaScript Program Logic and Methods**.
 - 🧬 Interested in the **interplay between nature's patterns and computational logic**.
+<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="right">
 
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" width="200" height="250" align="right">
 
 ## Technical Toolbox
 
