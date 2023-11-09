@@ -41,17 +41,11 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 
 ## My Projects
 
-### 📚 Triple Ten [Library]
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
+| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
 
-A showcase of semantic HTML5 and CSS Flexbox based on a design brief for the Software Engineer program at TripleTen.
-
-[View Project](https://gregoryalexandre369.github.io/Library/)
-
-### ☕ Triple Ten [Coffee Shop]
-
-Implemented advanced CSS techniques and animations to deliver an engaging user experience.
-
-[View Project](https://gregoryalexandre369.github.io/Coffee_Shop/)
 
 ### 🌍 Coming Soon: Artistry Meets Technology
 
