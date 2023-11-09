@@ -10,27 +10,6 @@
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 
-## About Me   
-- 💼 Full-Stack Web Developer in training at [TripleTen](https://tripleten.com/)
-- 🌐 Passionate about the intersection of web development, open-source, and the arts
-- 🖥️ Currently mastering JavaScript Program Logic and Methods
-- 🧬 Exploring the synergy between nature's patterns and computational logic
-
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" wwidth="200" height="250" align="right">
-## Technical Toolbox
-
-- 💻 **Front-end Development:** Mastery over HTML5, CSS3, JavaScript, and React for building dynamic and responsive interfaces.
-- 🧰 **UI/UX Design & Illustration:** Proficient in Figma and Adobe Suite (Photoshop, Illustrator, and XD) for creating compelling user experiences and vibrant digital illustrations.
-- 🖥️ **IDE:** Skilled in using Visual Studio Code for an efficient and optimized development environment.
-- 🤖 **Artificial Intelligence:** Exploring the possibilities with ChatGPT and OpenAI, integrating AI into web solutions.
-- 📚 **Version Control:** Proficient with Git and GitHub for maintaining robust version control and collaborative development workflows.
-- 🌟 **Hospitality Skills:** Translating my customer service excellence, attention to detail, and ability to anticipate user needs into creating intuitive and user-friendly digital experiences.
-- 🔄 **Methodologies:** Implementing Agile development and design thinking to adapt to changes swiftly and deliver high-quality products.
-
-
-
-
-
 ## About Me
 - 💼 **Web Development Trainee** at [TripleTen](https://tripleten.com/), honing my full-stack skills.
 - 🌐 Combining **Web Development, Open-Source, and the Arts** with passion.
