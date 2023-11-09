@@ -1,9 +1,8 @@
-<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="left">
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" wwidth="200" height="250" align="left">
+<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="200" height="250" align="right">
+
 <h1 align="left">
   <span style="color: #28a745;">Greetings! 👋 I'm Gregory Alexandre</span>
 </h1>
-
 
 🎨 Artist. Writer. Full-Stack Web Development Student. Multilingual Hospitality Specialist.
 
@@ -17,6 +16,7 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 - 🖥️ Currently mastering JavaScript Program Logic and Methods
 - 🧬 Exploring the synergy between nature's patterns and computational logic
 
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" wwidth="200" height="250" align="right">
 ## Technical Toolbox
 
 - 💻 **Front-end Development:** Mastery over HTML5, CSS3, JavaScript, and React for building dynamic and responsive interfaces.
