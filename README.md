@@ -9,13 +9,14 @@
 🚀 Welcome to my GitHub repository of creativity and code!
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
+<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="300" height="350" align="right">
 
 ## About Me
 - 💼 **Web Development Trainee** at [TripleTen](https://tripleten.com/), honing my full-stack skills.
 - 🌐 Combining **Web Development, Open-Source, and the Arts** with passion.
 - 🖥️ Focused on **JavaScript Program Logic and Methods**.
 - 🧬 Interested in the **interplay between nature's patterns and computational logic**.
-<img src="https://raw.githubusercontent.com/GregoryAlexandre369/GregoryAlexandre369/main/logo%20oval.svg" alt="Gregory's Logo" wwidth="300" height="350" align="right">
+
 
 ## Technical Toolbox
 
