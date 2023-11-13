@@ -37,9 +37,6 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 <img align="right" alt="GIF" width="100px" height="100px" src="https://media2.giphy.com/media/sP39BLHaHyKhI5Qj0A/200w.webp?cid=ecf05e47dx3avrhyr7kfs6pyc816atjcw1xlibydl95pdp3p&ep=v1_gifs_search&rid=200w.webp&ct=g/giphy.gif">
 
 ## GitHub Stats
-[Insert GitHub stats here - Use a GitHub Stats Card]
-
-## GitHub Stats
 
 ![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryAlexandre369&show_icons=true&theme=radical)
 
