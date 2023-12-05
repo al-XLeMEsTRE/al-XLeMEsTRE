@@ -1,0 +1,65 @@
+@media screen and (max-width: 950px) {
+  /* Adjust the flex-direction of the nav container */
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  /* Show and style the hamburger menu */
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 35px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+  /* Style the hamburger bars */
+  .box {
+    height: 3px;
+    background-color: #fff;
+    transition: all 0.3s ease;
+  }
+
+  /* Hide the navigation links by default */
+  .nav__links {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+  }
+
+  /* Show the navigation links when active (toggle this with JavaScript) */
+  .nav__links.is-active {
+    display: flex;
+  }
+
+  /* Adjust the header content layout */
+  .header__content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Adjust the header image size */
+  .header__image {
+    max-width: 50%; /* Larger percentage of the container's width */
+  }
+
+  /* Adjust the title and description font sizes */
+  .header__title {
+    font-size: 4rem; /* Smaller font size */
+  }
+
+  .header__description {
+    font-size: 1.5rem; /* Smaller font size */
+  }
+
+  /* Adjust the button size and font */
+  .header__button {
+    font-size: 1.5rem; /* Smaller font size */
+    padding: 10px 15px; /* Adjust padding as needed */
+    width: 80%; /* Make the button width responsive */
+  }
+}

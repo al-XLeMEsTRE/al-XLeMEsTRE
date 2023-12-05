@@ -1,0 +1,10 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  max-width: 1512px;
+  background-color: white;
+  margin: 0 auto 0;
+  font-family: "Inter";
+  font-size: 20px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}

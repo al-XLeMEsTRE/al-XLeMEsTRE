@@ -1,0 +1,125 @@
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00ff00,
+      0 0 40px #00ff00, 0 0 50px #1f0446, 0 0 60px #e3940c;
+  }
+  50% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff0000,
+      0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000;
+  }
+  100% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #0000ff,
+      0 0 40px #0000ff, 0 0 50px #aaaabe, 0 0 60px #0000ff;
+  }
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  padding: 40px 30px;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.header__content {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0 auto;
+}
+
+.header__image {
+  margin: 0 auto;
+  width: 350px;
+  height: auto;
+  border-radius: 50%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.header__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.header__title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 5.5em;
+  line-height: 1.5em;
+  font-weight: 500;
+  margin: 0;
+  max-width: 850px;
+  margin-top: 40px;
+  animation: glow 2s ease-in-out infinite;
+}
+.header__subtitle {
+  font-family: "Inter", sans-serif;
+  color: #94cbce3a;
+  font-size: 3em;
+  font-weight: 700;
+  max-width: 921px;
+  margin: 0 auto;
+  padding-bottom: 31px;
+  line-height: 50px;
+}
+
+.header__button {
+  color: white;
+  background-color: #c96b1fd0;
+  width: 400px;
+  text-align: center;
+  border-radius: 40px;
+  font-size: 2.8em; /* Updated font size */
+  font-weight: 600;
+  padding: 20px 20px; /* Updated padding */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add smooth transition */
+  text-decoration: none; /* Remove underline */
+}
+
+.header__button:hover {
+  color: #c96b1fd0;
+  background-color: #1fc9c352;
+  transform: translateY(2px); /* Slight downward movement */
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); /* Subtle text shadow */
+}
+
+.header__image:hover {
+  transform: scale(1.1);
+}
+
+.header__link {
+  color: #2f80ed;
+}
+
+.header__link:hover {
+  color: #1f69c9;
+}
+
+@media screen and (max-width: 800px) {
+  .header__content {
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+  }
+
+  .header__title {
+    font-size: 1.5rem; /* Smaller font size */
+    max-width: 500px;
+  }
+
+  .header__image {
+    max-width: 50%; /* Larger percentage of the container's width */
+    height: fit-content;
+    border-radius: 30%;
+    transition: transform 0.5s ease-in-out;
+  }
+  .header__button {
+    font-size: 1.5rem; /* Smaller for mobile */
+    padding: 10px 15px; /* Adjust padding as needed */
+    width: auto; /* Let it scale with the text */
+    max-width: 80%; /* Maximum width to maintain aesthetics */
+  }
+}

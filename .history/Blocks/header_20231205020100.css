@@ -1,0 +1,102 @@
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00ff00,
+      0 0 40px #00ff00, 0 0 50px #1f0446, 0 0 60px #e3940c;
+  }
+  50% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff0000,
+      0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000;
+  }
+  100% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #0000ff,
+      0 0 40px #0000ff, 0 0 50px #aaaabe, 0 0 60px #0000ff;
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateY(-5%);
+  }
+
+  100% {
+    transform: translateY(5%);
+  }
+}
+
+.header {
+  text-align: center;
+  transition: background-color 0.3s;
+  font-size: 2em;
+  text-decoration: none; /* Remove underline */
+}
+.header:hover {
+  background-color: rgb(58, 44, 3);
+}
+.header__content {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 0 auto;
+  max-width: 800px;
+  margin-bottom: 15px;
+}
+
+.header__image {
+  margin: 0 auto; /* Center the element horizontally */
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.header__title {
+  font-weight: 600;
+  margin: 5px 0;
+  font-size: 1.4em;
+  letter-spacing: 1px;
+  animation: glow 2s ease-in-out infinite;
+}
+.header__subtitle {
+  color: #94cbce3a;
+  font-size: 1em;
+  animation: slideIn 1s ease-in-out infinite;
+}
+
+.header__button {
+  color: white;
+  background-color: #c96b1fd0;
+  text-align: center;
+  border-radius: 0px;
+  font-size: 0.8em; /* Updated font size */
+  font-weight: 600;
+  padding: 10px 10px; /* Updated padding */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add smooth transition */
+  text-decoration: none; /* Remove underline */
+}
+
+.header__button:hover {
+  color: #c96b1fd0;
+  background-color: #1fc9c352;
+  transform: translateY(2px); /* Slight downward movement */
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); /* Subtle text shadow */
+}
+
+.header__image:hover {
+  transform: scale(1.1);
+}
+
+.header__link {
+  color: #2f80ed;
+}
+
+.header__link:hover {
+  color: #1f69c9;
+}
+/*
+@media screen and (max-width: 768px) {
+  .header__content {
+    flex-direction: column;
+  }
+}
+*/

@@ -1,0 +1,78 @@
+.nav {
+  display: flex;
+  padding-right: 20px;
+  justify-content: center;
+  color: #fff;
+  z-index: 3;
+}
+
+.hamburger {
+  display: none;
+  font-size: 2em;
+  background: none;
+  border: none;
+  color: #fff;
+  margin-left: auto; /* Push the hamburger to the right */
+}
+
+.nav__links {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+  text-decoration: none;
+}
+
+.nav__link {
+  text-decoration: none;
+  font-size: 0.6em;
+  color: #ffffff;
+  padding: 20px 20px;
+  border-radius: 0.2;
+  font-weight: 500;
+  transition: color 0.3s ease, transform 0.3s ease, text-shadow 0.3s ease; /* Add smooth transitions */
+}
+.nav__link:hover {
+  color: white;
+  background-color: #c96b1fd0;
+  transform: translateY(2px); /* Slight downward movement */
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); /* Subtle text shadow */
+}
+
+.nav__link--modifier {
+  color: #c96b1fd0;
+  background-color: #ffffff;
+  padding: 15px 20px;
+  margin-left: 60px;
+  border-radius: 60px;
+  transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease,
+    text-shadow 0.3s ease; /* Add smooth transitions */
+}
+
+.nav__link--modifier:hover {
+  color: white;
+  background-color: #1fc9c352;
+  transform: translateY(-2px); /* Slight upward movement */
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); /* Subtle text shadow */
+}
+
+@media screen and (max-width: 795px) {
+  .hamburger {
+    display: block;
+    cursor: pointer;
+  }
+  .nav__links {
+    position: absolute; /* absolute */
+    top: 10px;
+    right: 10px;
+    /* other styles */
+    display: none;
+    flex-direction: column; /* Stack the menu items vertically */
+    align-items: flex-end; /* Align the menu items to the right */
+    padding-right: 1em;
+    z-index: 2; /* Add this */
+    margin-top: 40px;
+  }
+  .nav__links.show {
+    display: flex;
+  }
+}

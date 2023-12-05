@@ -1,0 +1,134 @@
+.header {
+  color: #fff;
+  padding: 40px 60px;
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.header__content {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin: 0 auto;
+  min-width: 800px;
+}
+
+.header__image {
+  width: 550px;
+  height: auto;
+  border-radius: 50%;
+  transition: transform 0.5s ease-in-out;
+}
+
+.header__title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 4.5em;
+  line-height: 1.5em;
+  font-weight: 500;
+  margin: 0;
+  max-width: 700px;
+  margin-top: 40px;
+  animation: glow 2s ease-in-out infinite;
+}
+
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #00ff00,
+      0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 60px #00ff00;
+  }
+  50% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff0000,
+      0 0 40px #ff0000, 0 0 50px #ff0000, 0 0 60px #ff0000;
+  }
+  100% {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #0000ff,
+      0 0 40px #0000ff, 0 0 50px #0000ff, 0 0 60px #0000ff;
+  }
+}
+
+.header__description {
+  font-family: "Inter", sans-serif;
+  font-size: 2.5em;
+  font-weight: 500;
+  min-width: 725px;
+  margin: 0;
+  padding-bottom: 31px;
+  line-height: 50px;
+  margin-top: 20px;
+}
+
+.header__button {
+  color: white;
+  background-color: #c96b1fd0;
+  width: 400px;
+  text-align: center;
+  border-radius: 40px;
+  font-size: 2.5em; /* Updated font size */
+  font-weight: 600;
+  padding: 12px 20px; /* Updated padding */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add smooth transition */
+  text-decoration: none; /* Remove underline */
+}
+
+.header__button:hover {
+  color: #c96b1fd0;
+  background-color: #1fc9c352;
+  transform: translateY(2px); /* Slight downward movement */
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); /* Subtle text shadow */
+}
+
+.header__image:hover {
+  transform: scale(1.1);
+}
+
+.header__link {
+  color: #2f80ed;
+}
+
+.header__link:hover {
+  color: #1f69c9;
+}
+
+/* Existing CSS... */
+
+/* Media Query for Mobile Screens */
+@media screen and (max-width: 768px) {
+  .header {
+    padding: 20px 30px; /* Reduced padding */
+  }
+
+  .header__content {
+    display: block; /* Stack content vertically */
+    min-width: 0; /* Remove minimum width */
+    gap: 20px; /* Reduced gap */
+  }
+
+  .header__image {
+    width: 100%; /* Full width */
+    max-width: 300px; /* Maximum size */
+    margin: 0 auto; /* Center align */
+  }
+
+  .header__title {
+    font-size: 2.5em; /* Smaller font size */
+    margin-top: 20px; /* Adjusted margin */
+  }
+
+  .header__description {
+    font-size: 1.5em; /* Smaller font size */
+    min-width: 0; /* Remove minimum width */
+    padding-bottom: 15px; /* Adjusted padding */
+    line-height: 1.5em; /* Adjust line height */
+  }
+
+  .header__button {
+    width: 100%; /* Full width */
+    max-width: 200px; /* Maximum size */
+    font-size: 1.5em; /* Smaller font size */
+    padding: 10px 15px; /* Adjusted padding */
+    margin: 0 auto; /* Center align */
+  }
+
+ 

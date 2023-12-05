@@ -1,0 +1,45 @@
+/* Art Section */
+
+.art {
+  padding: 100px 0 140px;
+  background-image: url(../images/textures/IMG_1354.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.art__title {
+  text-align: center;
+  font-size: 44px;
+  line-height: 52px;
+  margin: 0 0 24px;
+  color: #fff;
+}
+
+.art__subtitle {
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  margin-bottom: 68px;
+  margin-top: 0; /* Reset the default top margin */
+  color: #fff;
+}
+
+.art__cards {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(82, 88, 8, 0.856),
+    rgba(71, 47, 47, 0.519),
+    rgba(30, 3, 26, 0.787)
+  );
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 960px;
+  list-style-type: none;
+  margin: 0 auto;
+  padding-left: 0px;
+  gap: 40px;
+  position: relative;
+}

@@ -1,0 +1,98 @@
+.skills__container {
+  height: fit-content;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 20px 20px 20px;
+  background: #ffc1b6; /* Change to match your design */
+  border-radius: 10px; /* Optional: adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow */
+  margin-bottom: 20px; /* Space below the skills container */
+  /* Other styles such as font, color, etc., based on your design */
+  transition: background-color 0.3s ease; /* Add transition effect */
+}
+
+.skills__container:hover {
+  background-color: #e6e6fa; /* Change to the desired hover background color */
+}
+/* Add styles to fit this container into your grid */
+
+.skills__heading {
+  text-align: center;
+  /* Add other styling as needed */
+}
+
+.skills__list {
+  list-style: none;
+  padding: 0;
+  margin: 0; /* Ensure the list has no default margin */
+}
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.skill__title {
+  flex-shrink: 0; /* Prevent the title from shrinking */
+  margin-right: 20px;
+  font-size: 24px;
+  line-height: 50px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  /* Add other styling as needed */
+  animation: bounce 0.5s infinite alternate;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-5px);
+  }
+}
+
+.skill__level {
+  flex-grow: 1; /* Allow the bar to grow and fill available space */
+  height: 20px; /* Adjust height as needed */
+  position: relative;
+  border-radius: 10px; /* Adjust border radius based on skill level */
+  overflow: hidden; /* Ensure the inner bar doesn't overflow */
+}
+
+.skill__level--html {
+  width: 80%; /* Adjust width based on skill level */
+  background-color: #4285f4; /* Color for HTML skill */
+  /* Add a transition or animation if desired */
+}
+
+.skill__level--css {
+  width: 70%; /* Adjust width based on skill level */
+  background-color: #0f9d58; /* Color for CSS skill */
+  /* Add a transition or animation if desired */
+}
+
+.skill__level--adobe {
+  width: 70%; /* Adjust width based on skill level */
+  background-color: #000000; /* Color for CSS skill */
+  /* Add a transition or animation if desired */
+}
+/* Repeat for other skills */
+.skill__level--figma {
+  width: 70%; /* Adjust width based on skill level */
+  background-color: #060254; /* Color for CSS skill */
+  /* Add a transition or animation if desired */
+}
+.skills__in-progress {
+  text-align: center;
+
+  /* Add other styling as needed */
+}
+
+.skills__in-progress img {
+  margin: 0 5px; /* Adjust spacing between icons */
+  width: 50px; /* Adjust as needed */
+  height: 50px;
+
+  /* Add a hover effect or animation if desired */
+}

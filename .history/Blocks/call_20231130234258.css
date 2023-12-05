@@ -1,0 +1,65 @@
+.about__call-to-action {
+  background: #c96b1fd0; /* Light background for the CTA area */
+  padding: 60px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: auto;
+  font-size: 2em;
+  color: white;
+  border-radius: 40px;
+}
+
+.about__call-to-action:hover {
+  background: #c96b1f; /* Updated background color on hover */
+}
+
+.call-to-action__title {
+  color: #1fc9c395;
+  margin-bottom: 10px;
+  font-size: 2.3em;
+}
+
+.call-to-action__text {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.call-to-action__button {
+  background-color: #0a0;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: background-color 0.3s;
+}
+
+.call-to-action__button:hover {
+  background-color: #080;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,138 @@
+.about {
+  overflow: hidden;
+  padding: 20px 40px 120px;
+  height: auto;
+}
+
+.about__grid {
+  margin-top: 40px;
+  padding-bottom: 60px;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Splits the grid into two equal columns */
+  grid-template-rows: 1fr 1fr; /* Splits the grid into two equal rows */
+  gap: 50px; /* Adjust the gap as needed */
+  justify-content: space-between;
+  height: auto;
+}
+
+.about__heading {
+  margin-top: 20px;
+  color: #000000;
+  font-weight: 500;
+  line-height: 52px;
+  text-shadow: 10px 20px 20px #1fc9c352;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 60px;
+}
+
+.about__subtitle {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 40px;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+.about__title {
+  color: #c96b1fd0;
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 60px;
+  animation: bounce 0.5s infinite;
+}
+
+.about__content {
+  background-color: #c96b1fd0;
+  border-radius: 20px;
+}
+.about__content,
+.about__cover {
+  grid-column: span 1;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.about__span {
+  background-color: #1fc9c352;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 90px;
+  border-radius: 20px;
+}
+
+.about__info-section {
+  margin-top: 32px;
+}
+
+.about-info__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  font-weight: 500;
+}
+
+.about-info__icon {
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 12px;
+  width: 24px;
+  height: 24px;
+}
+
+.about-info__icon_type_calendar {
+  background-image: url(../images/icon_calendar.svg);
+}
+
+.about-info__icon_type_pin {
+  background-image: url(../images/icon_pin.svg);
+}
+
+.about__description {
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 0px 20px;
+}
+
+.about__cover {
+  background-image: url(../images/logo/Logo.png);
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 780px;
+  max-width: 780px;
+  position: relative;
+}
+
+.about__image {
+  top: -10px;
+  left: -110px;
+  position: relative;
+  width: 160px;
+  height: 200px;
+  border-radius: 20px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.about__image:hover {
+  transform: scale(1.1);
+  filter: brightness(110%);
+}

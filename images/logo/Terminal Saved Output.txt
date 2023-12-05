@@ -1,0 +1,62 @@
+Last login: Sun Oct 15 19:33:32 on console
+al.xlemestre@GregoryandreMBP ~ % ls
+Applications		Desktop			Downloads		Movies			Pictures
+Creative Cloud Files	Documents		Library			Music			Public
+al.xlemestre@GregoryandreMBP ~ % cd Desktop 
+al.xlemestre@GregoryandreMBP Desktop % ls
+Audio						My imp files					Screenshot 2023-10-04 at 8.13.35 PM.png
+IMG_0142.HEIC					Screenshot 2023-09-04 022852.png		Screenshot 2023-10-04 at 9.06.08 PM.png
+Mes Projets					Screenshot 2023-10-04 at 5.42.21 PM.png		Screenshot 2023-10-04 at 9.43.41 PM.png
+al.xlemestre@GregoryandreMBP Desktop % cd "Mes Projets"
+al.xlemestre@GregoryandreMBP Mes Projets % ;ls  
+Personal	Triple Ten
+al.xlemestre@GregoryandreMBP Mes Projets % cd Personel
+cd: no such file or directory: Personel
+al.xlemestre@GregoryandreMBP Mes Projets % cd Personal 
+al.xlemestre@GregoryandreMBP Personal % ls
+Alexandre	Swift		Test
+al.xlemestre@GregoryandreMBP Personal % mkrir Portfolio          
+zsh: command not found: mkrir
+al.xlemestre@GregoryandreMBP Personal %  mkdir Portfolio   
+al.xlemestre@GregoryandreMBP Personal % ls
+Alexandre	Portfolio	Swift		Test
+al.xlemestre@GregoryandreMBP Personal % cd Portfolio
+al.xlemestre@GregoryandreMBP Portfolio % mkdir style    
+al.xlemestre@GregoryandreMBP Portfolio % mkdir pages
+al.xlemestre@GregoryandreMBP Portfolio % mkdir
+usage: mkdir [-pv] [-m mode] directory_name ...
+al.xlemestre@GregoryandreMBP Portfolio % mkdir links
+al.xlemestre@GregoryandreMBP Portfolio % touch index.html
+al.xlemestre@GregoryandreMBP Portfolio % cd style
+al.xlemestre@GregoryandreMBP style % touch styles.css
+al.xlemestre@GregoryandreMBP style % cd ..  
+al.xlemestre@GregoryandreMBP Portfolio % ls
+index.html	links		pages		style
+al.xlemestre@GregoryandreMBP Portfolio % mkdir images
+al.xlemestre@GregoryandreMBP Portfolio % ls
+images		index.html	links		pages		style
+al.xlemestre@GregoryandreMBP Portfolio % mkdir textures
+al.xlemestre@GregoryandreMBP Portfolio % ls
+images		index.html	links		pages		style		textures
+al.xlemestre@GregoryandreMBP Portfolio % code index.html
+zsh: command not found: code
+al.xlemestre@GregoryandreMBP Portfolio % pwd
+/Users/al.xlemestre/Desktop/Mes Projets/Personal/Portfolio
+al.xlemestre@GregoryandreMBP Portfolio % ls
+images		index.html	links		pages		style		textures
+al.xlemestre@GregoryandreMBP Portfolio % cd style
+al.xlemestre@GregoryandreMBP style % ls
+styles.css
+al.xlemestre@GregoryandreMBP style % touch normalize.css
+al.xlemestre@GregoryandreMBP style % 
+
+
+
+
+
+
+
+
+
+
+
