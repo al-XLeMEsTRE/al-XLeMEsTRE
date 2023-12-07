@@ -39,6 +39,36 @@ Singularity: Deeply interested in the concept of the technological singularity, 
 - 🌟 **Hospitality Skills:** Applying customer service excellence to UX.
 - 🔄 **Methodologies:** Agile and design thinking for adaptive, quality output.
 
+# Gregory Alexandre's Portfolio
+
+## Overview
+This portfolio showcases my diverse range of projects, encompassing both web development and artistic works. Each project reflects my dedication to quality, creativity, and technical proficiency.
+
+---
+
+## Web Development Projects
+
+| Project | Description | Technologies | Link |
+| ------- | ----------- | ------------ | ---- |
+| 📚 **Triple Ten [Library]** | A showcase of semantic HTML5 and CSS Flexbox skills, demonstrating modern web development standards. | HTML5, CSS Flexbox | [View Project](https://gregoryalexandre369.github.io/Library/) |
+| ☕ **Triple Ten [Coffee Shop]** | Features advanced CSS techniques and animations to create a dynamic and visually appealing user interface. | HTML5, CSS, JS | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
+
+---
+
+## Artistic Endeavors
+
+### L'ange Perdu - The Whispering Wings of Nature’s Sanctuary
+- **Description**: A mural blending folklore with ecological themes, showcasing my artistic vision and environmental sensitivity.
+- **Link**: [View Project](https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)
+
+### Exploring Ovaluda
+- **Description**: A monochromatic piece emphasizing symmetrical design and thematic exploration.
+- **Link**: [View Project](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)
+
+---
+
+
+
 ## Art and Web Development Projects
 ### My Projects
 
