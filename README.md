@@ -86,8 +86,13 @@ Certificates
 - Financial Literacy Certificate, Catholic Baptiste Church
   
 ## Art and Web Development Projects
+# My Projects
 
-Triple Ten Library Project
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
+| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
+
 
 - Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
 
@@ -113,15 +118,6 @@ As an abstract, surrealist, and symbolic artist, I bring a unique perspective to
 
 ![Gregory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GregoryAlexandre369&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryAlexandre369&layout=compact&theme=radical)
-
-
-## My Projects
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
-| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
-
 
 ### 🌍 Coming Soon: Artistry Meets Technology
 
