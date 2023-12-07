@@ -1,8 +1,13 @@
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Gregory's%20porfolio.png" alt="Gregory's Logo" width="190" height="220" align="right">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Gregory's%20porfolio.png" alt="Gregory's Logo" width="210" height="250" align="right">
 
 <h1 align="left">
   <span style="color: #28a745;">Salut! 👋 I'm Gregory Alexandre</span>
 </h1>
+<p align="left">
+  🚀 <strong>Welcome to my GitHub repository</strong> — a blend of creativity, innovation, and code!
+</p>
+
+
 
 Multilingual Technical Customer Experience Specialist
 
@@ -13,8 +18,6 @@ Multilingual Technical Customer Experience Specialist
 - 💻 **Replit**: [GregoryAlexandre369](https://replit.com/@GregoryAlexandre369)
   
 ---
-  
-🚀 Welcome to my GitHub repository of creativity and code!
 
 ## Professional Summary
 Multilingual and versatile professional with a blend of customer service expertise, front-end web development skills, and artistic talent. Currently enhancing technical expertise through a Full Stack Software Engineer Bootcamp. Skilled in creating engaging digital experiences and committed to delivering outstanding customer interactions.
