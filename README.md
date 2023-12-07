@@ -85,8 +85,7 @@ Certificates
 - LinkedIn Certification: Ethical Persuasion
 - Financial Literacy Certificate, Catholic Baptiste Church
   
-{
-Art and Web Development Projects
+## Art and Web Development Projects
 
 Triple Ten Library Project
 
@@ -109,8 +108,6 @@ Ongoing
 
 As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Ovaluda.png" alt="Gregory's Logo" wwidth="300" height="350" align="right">
-}
-
 
 ## GitHub Stats
 
@@ -138,9 +135,5 @@ _A section dedicated to future projects that encapsulate my journey into full-st
 ## Let's Connect
 
 Join me at the nexus of creativity and technology. I'm looking for collaboration, conversation, and opportunities to make an impact.
-
-- [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
-- [Replit](https://replit.com/@GregoryAlexandre369)
-
 
 _“In the harmonious matrix of art and code, I sculpt the ether of tomorrow.” - Gregory Alexandre.
