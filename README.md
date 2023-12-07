@@ -39,6 +39,21 @@ Singularity: Deeply interested in the concept of the technological singularity, 
 - 🌟 **Hospitality Skills:** Applying customer service excellence to UX.
 - 🔄 **Methodologies:** Agile and design thinking for adaptive, quality output.
 
+---
+
+## Projects
+
+| Project | Category | Description | Technologies/Themes |
+| ------- | :------: | ----------- | ------------------- |
+| 📚 **[Triple Ten Library](https://gregoryalexandre369.github.io/Library/)** | `Web Development` | A showcase project featuring semantic HTML5 and CSS Flexbox, reflecting modern web development standards. | `HTML5`, `CSS Flexbox` |
+| ☕ **[Triple Ten Coffee Shop](https://gregoryalexandre369.github.io/Coffee_Shop/)** | `Web Development` | Engaging web experience with advanced CSS techniques and animations, focusing on dynamic and visually appealing UI. | `HTML5`, `CSS`, `JS` |
+| 🎨 **[L'ange Perdu - The Whispering Wings](https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)** | `Artistic` | A mural blending folklore with ecological themes, showcasing my artistic vision and environmental consciousness. | `Art`, `Ecology` |
+| 🖼️ **[Exploring Ovaluda](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)** | `Artistic` | A monochromatic art piece emphasizing symmetrical design and thematic exploration. | `Monochromatic Art`, `Symmetry` |
+
+---
+
+
+
 
 ---
 
@@ -52,27 +67,6 @@ Singularity: Deeply interested in the concept of the technological singularity, 
 | **Exploring Ovaluda** | Artistic | A monochromatic art piece focusing on symmetrical design and thematic depth. | Monochromatic Art, Symmetry | [View](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf) |
 
 ---
-
-
-
-
-## Art and Web Development Projects
-### My Projects
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
-| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
-
-### Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
-
-#### L'ange Perdu - The Whispering Wings of Nature’s Sanctuary (Art Project)
-- Created a mural blending folklore with ecological themes, demonstrating artistic vision and environmental awareness.
-(https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)
-
-#### Exploring Ovaluda (Art Project)
-- Developed a monochromatic art piece, showcasing skills in symmetrical design and thematic exploration.
-  (https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)
 
 ### Education and Professional Development
 
