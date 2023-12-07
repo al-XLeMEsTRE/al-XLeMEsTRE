@@ -1,10 +1,10 @@
 <img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" width="200" height="250" align="right">
 
 <h1 align="left">
-  <span style="color: #28a745;">Greetings! 👋 I'm Gregory Alexandre</span>
+  <span style="color: #28a745;">salut! 👋 I'm Gregory Alexandre</span>
 </h1>
 
-Technical Customer Experience Specialist
+Multilingual Technical Customer Experience Specialist
 Brooklyn, NYC, United States | (678)-467-9646 | gregoryalexandre369@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
 - [Replit](https://replit.com/@GregoryAlexandre369)
@@ -17,38 +17,61 @@ Multilingual and versatile professional with a blend of customer service experti
 ## About Me
 - 💼 **Web Development Trainee** at [TripleTen](https://tripleten.com/), honing my full-stack skills.
 - 🌐 Combining **Web Development, Open-Source, and the Arts** with passion.
-- 🖥️ Focused on **JavaScript Program Logic and Methods**.
-- 🧬 Interested in the **interplay between nature's patterns and computational logic**.
+- 🖥️ Specializing in JavaScript Program Logic and Methods with an emphasis on integrating Artificial Intelligence applications.
+- 🧬 Interested in the **Synchronicity: Fascinated by the meaningful coincidences and connections in life and their impact on personal and technological growth.
+Singularity: Deeply interested in the concept of the technological singularity, where artificial intelligence surpasses human intelligence, transforming society.**.
 
 ## Language Proficiency
-- 🇭🇹 Haitian Creole
-- 🇫🇷 French
-- 🇪🇸 Spanish
-- 🇺🇸 English
-- 🇸🇦 Arabic (Fusha)
-  
 
+- 🇭🇹 Haitian Creole: Native
+- 🇫🇷 French: Native
+- 🇺🇸 English: Full Professional Proficiency
+- 🇪🇸 Spanish: Limited Working Proficiency
+- 🇸🇦 Arabic (MSA): Basic Understanding, Reading, and Writing; Knowledge of Tajweed Rules
+  
 ## Technical Toolbox
 
 - 💻 **Front-End Development:** HTML5, CSS3, JavaScript, React.
 - 🧰 **UI/UX Design & Illustration:** Figma, Adobe Suite (Photoshop, Illustrator, XD).
 - 🖥️ **IDE Skills:** Proficient in Visual Studio Code.
-- 🤖 **Artificial Intelligence:** Exploring ChatGPT and OpenAI integrations.
+- 🤖 **Artificial Intelligence:** Exploring ChatGPT, OpenAI integrations, Bard and Gemini.
 - 📚 **Version Control:** Skilled in Git and GitHub.
 - 🌟 **Hospitality Skills:** Applying customer service excellence to UX.
 - 🔄 **Methodologies:** Agile and design thinking for adaptive, quality output.
 
+## Art and Web Development Projects
+### My Projects
+
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
+| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
+
+### Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
+
+#### L'ange Perdu - The Whispering Wings of Nature’s Sanctuary (Art Project)
+- Created a mural blending folklore with ecological themes, demonstrating artistic vision and environmental awareness.
+(https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)
+
+#### Exploring Ovaluda (Art Project)
+- Developed a monochromatic art piece, showcasing skills in symmetrical design and thematic exploration.
+  (https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)
+
+### Education and Professional Development
+
+Full Stack Software Engineer Bootcamp, Triple Ten [Ongoing]
+- Engaging in intensive training in full-stack development, covering front-end and back-end technologies, database management, and more.
 
 ## Work Experience
 
-Technical Customer Experience Specialist | DUALITY SOLUTIONS LLC
+Freelance Technical Customer Experience Specialist | DUALITY SOLUTIONS LLC
 July 2023 - Present
 
-- Developed and managed the company's digital customer interaction platforms using HTML, CSS, and JavaScript.
-- Integrated artistic elements into web design to enhance user experience, focusing on functionality and aesthetic appeal.
-- Collaborated with cross-functional teams to align technical solutions with customer service objectives.
+- Spearheading the development of DUALITY SOLUTIONS' digital customer engagement platforms, utilizing HTML5 and CSS3 to deliver responsive and intuitive user interfaces.
+- Infusing web designs with unique artistic elements to elevate the overall user experience, balancing functional excellence with visual allure.
+- Partnering with diverse teams to ensure that technical implementations are seamlessly integrated with the company's customer service strategies, enhancing satisfaction and engagement.
 
-Host | WESTLIGHT, Brooklyn, NYC
+Customer Interaction Specialist | WESTLIGHT, Brooklyn, NYC
 Feb 2023 - Present
 
 - Managed guest check-ins and reservations using advanced software systems.
@@ -72,7 +95,6 @@ Jun 2018 - Sep 2019
 - Demonstrated expertise in wine and beverage service, contributing to significant sales improvement.
 - Ensured accuracy in billing and cash management, maintaining financial integrity.
 
-
 ### Soft Skills
 
 - Strong verbal and written communication in multiple languages
@@ -84,35 +106,6 @@ Jun 2018 - Sep 2019
 - NYC Department of Health and Mental Hygiene: Food Protection
 - LinkedIn Certification: Ethical Persuasion
 - Financial Literacy Certificate, Catholic Baptiste Church
-  
-## Art and Web Development Projects
-### My Projects
-
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| 📚 **Triple Ten [Library]** | A showcase project featuring semantic HTML5 and CSS Flexbox, developed as part of the Software Engineer program at TripleTen. Designed to demonstrate a strong grasp of modern web development standards. | [View Project](https://gregoryalexandre369.github.io/Library/) |
-| ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
-
-
-### Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
-
-L'ange Perdu - The Whispering Wings of Nature’s Sanctuary (Art Project)
-- Created a mural blending folklore with ecological themes, demonstrating artistic vision and environmental awareness.
-(https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)
-
-Exploring Ovaluda (Art Project)
-- Developed a monochromatic art piece, showcasing skills in symmetrical design and thematic exploration.
-  (https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)
-
-### Education and Professional Development
-
-Full Stack Software Engineer Bootcamp, Triple Ten
-Ongoing
-
-- Engaging in intensive training in full-stack development, covering front-end and back-end technologies, database management, and more.
-
-As an abstract, surrealist, and symbolic artist, I bring a unique perspective to the logic and structure of web development. My quest for understanding the universal code through programming is not just about building websites—it's about crafting experiences that resonate on a deeper level.
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Ovaluda.png" alt="Gregory's Logo" wwidth="300" height="350" align="right">
 
 ## GitHub Stats
 
