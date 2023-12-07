@@ -1,4 +1,4 @@
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/GregoryAlexandre%20369.png" alt="Gregory's Logo" width="200" height="250" align="right">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Gregory's%20porfolio.png" alt="Gregory's Logo" width="150" height="200" align="right">
 
 <h1 align="left">
   <span style="color: #28a745;">salut! 👋 I'm Gregory Alexandre</span>
