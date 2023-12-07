@@ -73,20 +73,20 @@ Jun 2018 - Sep 2019
 - Ensured accuracy in billing and cash management, maintaining financial integrity.
 
 
-Soft Skills
+### Soft Skills
 
 - Strong verbal and written communication in multiple languages
 - Exceptional customer service and hospitality management
 - Creative problem-solving and innovative thinking
 
-Certificates
+### Certificates
 
 - NYC Department of Health and Mental Hygiene: Food Protection
 - LinkedIn Certification: Ethical Persuasion
 - Financial Literacy Certificate, Catholic Baptiste Church
   
 ## Art and Web Development Projects
-# My Projects
+### My Projects
 
 | Project | Description | Link |
 | ------- | ----------- | ---- |
@@ -94,17 +94,17 @@ Certificates
 | ☕ **Triple Ten [Coffee Shop]** | An engaging web experience utilizing advanced CSS techniques and animations. Focuses on creating a dynamic and visually appealing user interface, highlighting my skills in responsive design and interactive elements. | [View Project](https://gregoryalexandre369.github.io/Coffee_Shop/) |
 
 
-- Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
+### Designed and developed an interactive web platform, focusing on semantic web standards and responsive design.
 
 L'ange Perdu - The Whispering Wings of Nature’s Sanctuary (Art Project)
-
 - Created a mural blending folklore with ecological themes, demonstrating artistic vision and environmental awareness.
+(https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)
 
 Exploring Ovaluda (Art Project)
-
 - Developed a monochromatic art piece, showcasing skills in symmetrical design and thematic exploration.
+  (https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)
 
-Education and Professional Development
+### Education and Professional Development
 
 Full Stack Software Engineer Bootcamp, Triple Ten
 Ongoing
