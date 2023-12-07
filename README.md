@@ -1,13 +1,18 @@
-<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Gregory's%20porfolio.png" alt="Gregory's Logo" width="150" height="200" align="right">
+<img src="https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Gregory's%20porfolio.png" alt="Gregory's Logo" width="190" height="220" align="right">
 
 <h1 align="left">
   <span style="color: #28a745;">Salut! 👋 I'm Gregory Alexandre</span>
 </h1>
 
 Multilingual Technical Customer Experience Specialist
-Brooklyn, NYC, United States | (678)-467-9646 | gregoryalexandre369@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
-- [Replit](https://replit.com/@GregoryAlexandre369)
+
+- 📍 **Location**: Brooklyn, NYC, United States
+- 📞 **Phone**: [(678)-467-9646](tel:+16784679646)
+- 📧 **Email**: [gregoryalexandre369@gmail.com](mailto:gregoryalexandre369@gmail.com)
+- 🔗 **LinkedIn**: [Gregory Alexandre](https://www.linkedin.com/in/gregoryalexandre369/)
+- 💻 **Replit**: [GregoryAlexandre369](https://replit.com/@GregoryAlexandre369)
+  
+---
   
 🚀 Welcome to my GitHub repository of creativity and code!
 
