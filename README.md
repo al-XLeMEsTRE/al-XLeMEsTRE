@@ -53,21 +53,6 @@ Singularity: Deeply interested in the concept of the technological singularity, 
 ---
 
 
-
-
----
-
-## Projects
-
-| Project | Category | Description | Technologies/Themes | Link |
-| ------- | -------- | ----------- | ------------------- | ---- |
-| 📚 **Triple Ten [Library]** | Web Development | Demonstrates modern web development standards with semantic HTML5 and CSS Flexbox. | HTML5, CSS Flexbox | [View](https://gregoryalexandre369.github.io/Library/) |
-| ☕ **Triple Ten [Coffee Shop]** | Web Development | Dynamic UI with advanced CSS techniques and animations. | HTML5, CSS, JS | [View](https://gregoryalexandre369.github.io/Coffee_Shop/) |
-| **L'ange Perdu** | Artistic | A mural that blends folklore with ecological themes, showcasing environmental awareness. | Art, Ecology | [View](https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/) |
-| **Exploring Ovaluda** | Artistic | A monochromatic art piece focusing on symmetrical design and thematic depth. | Monochromatic Art, Symmetry | [View](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf) |
-
----
-
 ### Education and Professional Development
 
 Full Stack Software Engineer Bootcamp, Triple Ten [Ongoing]
