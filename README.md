@@ -16,7 +16,7 @@ Multilingual Technical Customer Experience Specialist
 - 💻 **Replit**: [GregoryAlexandre369](https://replit.com/@GregoryAlexandre369)
 ---
 
-## The Essence of   <h3><span style="color: #28a745;">al-X Le MEsTRE</span></h3>
+## The Essence of<h3><span style="color: #28a745;">al-X Le MEsTRE</span></h3>
 
 In the vast expanse of technology and art, I voyage under the banner of al-X Le MEsTRE. This pseudonym is a deliberate choice, reflecting the multifaceted nature of my identity:
 
