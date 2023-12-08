@@ -16,13 +16,14 @@ Multilingual Technical Customer Experience Specialist
 - 💻 **Replit**: [GregoryAlexandre369](https://replit.com/@GregoryAlexandre369)
 ---
 
-## The Essence of al-X Le MEsTRE
+## The Essence of   <h3><span style="color: #28a745;">al-X Le MEsTRE</span></h3>
 
 In the vast expanse of technology and art, I voyage under the banner of al-X Le MEsTRE. This pseudonym is a deliberate choice, reflecting the multifaceted nature of my identity:
 
-- al-X: Here, 'al-' is an Arabic article translating to 'The', denoting distinction and prominence. 'X' symbolizes the 'unknown' — not an absence, but a presence full of potential. It represents the uncharted territories of my consciousness, the wellspring of creativity from which my ideas emerge. It's where the analytical meets the intuitive, and the logic interweaves with the abstract, in the creation of something truly unique.
+- al-X: Here, 'al-' is an Arabic article translating to 'The', denoting distinction and prominence. 'X' symbolizes the 'unknown' — not an absence, but a presence full of potential. It represents the uncharted territories of my consciousness, the wellspring of creativity from which my ideas emerge. It's where the analytical meets the intuitive, and the logic interweaves with the abstract, surrealism, and symbolism in the creation of something truly unique.
 - Le MEsTRE: In French, 'The Master', a pledge to the pursuit of excellence. Whether it is crafting elegant code or designing immersive experiences, I strive for mastery and finesse, hallmarks of my dedication to my craft.
-- **As al-X Le MEsTRE**, I am a custodian of the unknown — the realms of imagination and innovation that drive the evolution of technology and art.
+  
+  As al-X Le MEsTRE, I am a custodian of the unknown — the realms of imagination and innovation that drive the evolution of technology and art.
 
 ## Professional Summary
 Multilingual and versatile professional with a blend of customer service expertise, front-end web development skills, and artistic talent. Currently enhancing technical expertise through a Full Stack Software Engineer Bootcamp. Skilled in creating engaging digital experiences and committed to delivering outstanding customer interactions.
