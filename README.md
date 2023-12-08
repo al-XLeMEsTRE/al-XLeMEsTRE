@@ -18,7 +18,7 @@ Multilingual Technical Customer Experience Specialist
 
 ## The Essence of<h1 align="left">
   <span style="color: #28a745;">al-X Le MEsTRE</span>
-</h1>
+</h1>##
 
 In the vast expanse of technology and art, I voyage under the banner of al-X Le MEsTRE. This pseudonym is a deliberate choice, reflecting the multifaceted nature of my identity:
 
