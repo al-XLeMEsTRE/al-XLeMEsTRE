@@ -55,6 +55,7 @@ Singularity: Deeply interested in the concept of the technological singularity, 
   
 ---
 
+
 ## Projects
 
 | Project | Category | Description | Technologies/Themes |
@@ -63,9 +64,10 @@ Singularity: Deeply interested in the concept of the technological singularity, 
 | ☕ **[Triple Ten Coffee Shop](https://gregoryalexandre369.github.io/Coffee_Shop/)** | `Web Development` | Engaging web experience with advanced CSS techniques and animations, focusing on dynamic and visually appealing UI. | `HTML5`, `CSS`, `JS` |
 | 🎨 **[L'ange Perdu - The Whispering Wings](https://gamma.app/docs/Lange-Perdu-The-Whispering-Wings-of-Natures-Sanctuary-57lk5vlnj2qjlb2/)** | `Artistic` | A mural blending folklore with ecological themes, showcasing my artistic vision and environmental consciousness. | `Art`, `Ecology` |
 | 🖼️ **[Exploring Ovaluda](https://github.com/GregoryAlexandre369/GregoryAlexandre369/blob/main/Exploring-Ovaluda.pdf)** | `Artistic` | A monochromatic art piece emphasizing symmetrical design and thematic exploration. | `Monochromatic Art`, `Symmetry` |
-| 🌌 **The Assembly of the Gods** | `Artistic` | A transcendent art piece embodying the harmony of nature, human evolution, and spiritual enlightenment. Created in the heart of "CUP | Coffee Uplift People," it's a narrative that weaves the threads of ancient divination with the binary underpinnings of our digital age. | `Art`, `Nature`, `Spirituality`, `Binary System` |
+| 🌌 **[The Assembly of the Gods](https://gamma.app/docs/The-Assembly-of-the-Gods-l6d2q0vgy913smt?mode=doc#card-4td8pgndhyvtpyy)** | `Artistic` | A transcendent art piece embodying the harmony of nature, human evolution, and spiritual enlightenment. Created in the heart of "CUP | Coffee Uplift People," it's a narrative that weaves the threads of ancient divination with the binary underpinnings of our digital age. | `Art`, `Nature`, `Spirituality`, `Binary System` |
 
 ---
+
 
 ### Education and Professional Development
 
