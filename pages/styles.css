@@ -3,8 +3,6 @@
 @import url("../blocks/header.css");
 @import url("../blocks/nav.css");
 @import url("../blocks/bubble.css");
-
-/* 
 @import url("/Blocks/about.css");
 @import url("/Blocks/skills.css");
 @import url("/Blocks/call.css");
@@ -12,4 +10,32 @@
 @import url("/Blocks/card.css");
 @import url("/Blocks/gallery.css");
 @import url("/Blocks/footer.css");
-*/
+
+.image-container {
+  position: relative;
+  width: 300px; /* Adjust as needed */
+}
+
+.artwork-image {
+  width: 100%;
+  display: block;
+}
+
+.description {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.5s, visibility 0.5s;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.image-container:hover .description {
+  visibility: visible;
+  opacity: 1;
+}
