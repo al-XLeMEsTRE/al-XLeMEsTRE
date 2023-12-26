@@ -16,17 +16,6 @@
   margin-bottom: 10px;
   animation: bounce 0.3s infinite;
 }
-@keyframes bounce {
-  0% {
-    transform: translateY(10px);
-  }
-  50% {
-    transform: translateY(-40px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
 
 .gallery__subtitle {
   color: #1fc9c395;

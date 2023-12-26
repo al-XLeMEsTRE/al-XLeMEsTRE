@@ -109,10 +109,3 @@
 .social-media-links a:hover {
   color: #000000; /* Change icon color on hover */
 }
-
-@media screen and (max-width: 1024px) {
-  .header__content {
-    display: flex;
-    flex-direction: column-reverse;
-  }
-}

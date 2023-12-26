@@ -43,15 +43,6 @@
   animation: bounce 0.5s infinite alternate;
 }
 
-@keyframes bounce {
-  0% {
-    transform: translateY(0);
-  }
-  100% {
-    transform: translateY(-5px);
-  }
-}
-
 .skill__level {
   flex-grow: 1; /* Allow the bar to grow and fill available space */
   height: 20px; /* Adjust height as needed */
@@ -93,15 +84,16 @@
   margin: 0 5px; /* Adjust spacing between icons */
   width: 200px; /* Adjust as needed */
   height: 200px;
-  .skills__container {
-    height: auto;
-    color: #ffffff;
-    font-size: 3em;
-    padding: 60px 40px;
-    background: #1fc9c352;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.3s ease;
-    animation: bounce 0.5s infinite alternate; /* Add animation */
-  }
+}
+
+.skills__container {
+  height: auto;
+  color: #ffffff;
+  font-size: 3em;
+  padding: 60px 40px;
+  background: #1fc9c352;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  animation: bounce 0.5s infinite alternate; /* Add animation */
 }
