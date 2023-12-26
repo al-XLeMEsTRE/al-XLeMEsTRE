@@ -109,3 +109,14 @@
 .social-media-links a:hover {
   color: #000000; /* Change icon color on hover */
 }
+
+/* Media query for screens with a maximum width of 320 pixels */
+@media screen and (max-width: 320px) {
+  /* Styles specific to screens with a width of 320 pixels or less */
+
+  /* Reverse the order of the flex container's items in a column direction */
+  .header__content {
+    flex-direction: column-reverse;
+  }
+  /* Add more styles as needed for this specific screen size */
+}
