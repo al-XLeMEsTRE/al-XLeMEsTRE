@@ -6,6 +6,8 @@
   padding: 2rem 6rem;
 }
 
+/* Media queries */
+
 @media screen and (max-width: 320px) {
   .header__content {
     flex-direction: column-reverse;
