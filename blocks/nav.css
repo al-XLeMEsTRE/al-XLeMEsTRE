@@ -67,6 +67,26 @@
   transition: transform 0.2s ease-in-out;
 }
 
+.social-media-links {
+  margin: 40px auto 0;
+  max-width: 20px;
+  display: flex;
+  justify-content: center; /* Center the links */
+  gap: 40px; /* Add some space between the links */
+  border: 1px solid #c81919; /* Add a border */
+}
+
+.social-media-links a {
+  text-decoration: none; /* Remove the underline from links */
+  color: #9f9005; /* Set your desired icon color */
+  font-size: 70px; /* Set your desired icon size */
+  border: 1px solid #c81919; /* Add a border */
+}
+
+.social-media-links a:hover {
+  color: #000000; /* Change icon color on hover */
+}
+
 .portfolio__image:hover {
   transform: scale(1.08);
 }

@@ -5,37 +5,3 @@
   line-height: 1.6;
   padding: 2rem 6rem;
 }
-
-/* Media queries */
-
-@media screen and (max-width: 320px) {
-  .header__content {
-    flex-direction: column-reverse;
-    max-width: 300px;
-  }
-
-  .header__info {
-    max-width: 300px;
-  }
-
-  .info__title {
-    font-size: 60px;
-  }
-
-  .nav-container {
-    margin: 80px auto 0;
-    display: flex;
-    flex-direction: column;
-    align-content: flex-end;
-  }
-
-  .hamburger-menu {
-    display: block;
-    cursor: pointer;
-    border: none;
-    background-color: white;
-    margin: 0;
-    padding: 0;
-    font-size: 70px;
-  }
-}
