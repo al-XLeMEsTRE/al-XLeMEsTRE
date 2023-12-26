@@ -125,8 +125,6 @@
     flex-direction: column;
     align-content: flex-end;
   }
-  .nav__links {
-  }
 
   .hamburger-menu {
     display: block;
