@@ -1,11 +1,12 @@
-.nav-container {
+.nav {
   margin: 171px auto 0;
   display: flex;
   flex-direction: column;
+  align-items: center;
   border: 1px solid #c81919; /* Add a border */
 }
 .hamburger-menu {
-  display: none; /* Show the hamburger menu */
+  display: block; /* Show the hamburger menu */
 }
 
 .nav__links {
@@ -14,8 +15,7 @@
   justify-content: center;
   color: #000000;
   list-style: none;
-  gap: 10px;
-  font-size: 46px;
+  gap: 50px;
   text-decoration: none;
   border: 1px solid #c81919; /* Add a border */
 }
@@ -25,7 +25,7 @@
   color: #000000;
   padding: 10px 10px;
   font-weight: 500;
-  border: 1px solid #c81919; /* Add a border */
+  font-size: 46px;
 }
 .nav__link:hover {
   color: white;
@@ -51,7 +51,9 @@
 }
 
 .portfolio__image {
+  padding-top: 120px;
   max-width: 500px;
+  margin-bottom: 30px;
   height: auto;
   clip-path: polygon(
     0% 0%,
@@ -78,7 +80,7 @@
 .social-media-link {
   text-decoration: none; /* Remove the underline from links */
   color: #9f9005; /* Set your desired icon color */
-  font-size: 60px; /* Set your desired icon size */
+  font-size: 90px; /* Set your desired icon size */
   border: 1px solid #c81919; /* Add a border */
 }
 
@@ -91,11 +93,10 @@
   transform: scale(1.08);
 }
 
-.portfolio__subtitle {
+.nav__call-to-actions {
   margin: 30px auto 20px;
   color: rgb(0, 0, 0);
-  font-size: 60px;
+  font-size: 80px;
   font-weight: 600;
-  animation: slideIn 1s infinite;
   border: 1px solid #c81919; /* Add a border */
 }

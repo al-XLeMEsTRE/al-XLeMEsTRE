@@ -13,6 +13,7 @@
 }
 
 .header {
+  position: relative;
   text-align: center;
   text-decoration: none; /* Remove underline */
   border: 1px solid #c81919; /* Add a border */
@@ -21,29 +22,27 @@
 .header__content {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  gap: 20px;
   flex-direction: row;
   border: 1px solid #c81919; /* Add a border */
   margin: 0 auto;
 }
-
+/* Header Info */
 .header__info {
-  max-width: 1170px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
   margin: 0 auto;
   border: 1px solid #c81919; /* Add a border */
 }
 
-.header__logo-container {
-  margin-bottom: 30ppx;
-}
 .header__logo {
-  margin-top: 20px;
+  z-index: -1;
+  margin: 0 auto;
   height: auto;
-  max-width: 100px;
-  margin-right: auto; /* Push the logo to the left */
+  width: 100px;
+  max-width: fit-content;
   animation: pulsate 1.3s ease-in-out infinite; /* Apply the animation */
   border: 1px solid #c81919; /* Add a border */
 }
@@ -58,7 +57,7 @@
 
 .info__title-span-x {
   color: #daa51f;
-  font-size: 150px;
+  font-size: 120px;
   border: 1px solid #c81919; /* Add a border */
 }
 .info__title-span-s {
@@ -76,9 +75,10 @@
 }
 
 .info__description {
+  max-width: 900px;
   color: #000000;
   padding: 20px;
-  font-size: 40px;
+  font-size: 50px;
   text-align: justify;
   margin-top: 0;
   border: 1px solid #c81919; /* Add a border */
@@ -97,18 +97,6 @@
   /* Header */
   .header__content {
     flex-direction: column-reverse;
-  }
-
-  .header__logo {
-    position: absolute;
-    top: 40px;
-    left: 300px;
-    margin: 0 auto;
-    margin-top: 20px;
-    height: auto;
-    max-width: 100px;
-    animation: pulsate 1.3s ease-in-out infinite; /* Apply the animation */
-    border: 1px solid #c81919; /* Add a border */
   }
 
   .info__title {
@@ -132,14 +120,23 @@
     border: 1px solid #c81919; /* Add a border */
   }
 
+  /* Navigation */
+  .nav {
+    margin: 200px auto 0px;
+  }
+
   .hamburger-menu {
+    position: absolute;
+    top: 10px;
+    right: 10px;
     display: block;
     cursor: pointer;
     border: none;
-    background-color: white;
     margin: 0;
     padding: 0;
-    font-size: 70px;
+    font-size: 40px;
+    border: 1px solid #c81919; /* Add a border */
+    background-color: transparent;
   }
 
   .nav__link {
@@ -148,30 +145,34 @@
     /* Additional styles */
   }
 
-  .nav__link.active {
+  .nav__links.active {
     /* When active, show the menu */
     display: block;
-    /* Styles to properly format your navigation menu for mobile */
     position: absolute;
-    background-color: #fff; /* Example background */
-    top: 20%; /* Position below the nav bar */
-    left: 18%;
-    transform: translate(
-      -50%,
-      -50%
-    ); /* Offset the image by half its width and height to center it */
-    width: 20%;
+    top: 80px;
+    right: 10px;
     margin-top: 0%;
-    text-align: start;
-    /* You might want to add more styles here */
+    text-align: end;
+    padding-left: 0;
   }
 
-  .social-media-links {
-    margin: 0 auto;
-    max-width: 5px;
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    border: 1px solid #c81919;
+  .nav__link {
+    font-size: 20px;
+    border: 1px solid #c81919; /* Add a border */
+  }
+
+  .portfolio__image {
+    max-width: 400px;
+    height: auto;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .social-media-link {
+    font-size: 20px; /* Set your desired icon size */
+  }
+  .nav__call-to-actions {
+    font-size: 40px;
+    font-weight: 600;
+    border: 1px solid #c81919; /* Add a border */
   }
 }

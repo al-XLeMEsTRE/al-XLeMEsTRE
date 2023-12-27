@@ -7,8 +7,8 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
     />
-
     <title>al-X | Le MEsTRE</title>
+    <link rel="stylesheet" href="./vendor/normalize.css" />
     <link rel="stylesheet" href="./pages/styles.css" />
     <link rel="shortcut icon" href="./images/Assets/logo/Logo.png" />
   </head>
@@ -17,15 +17,14 @@
       <header class="header">
         <div class="header__content">
           <div class="header__info">
-            <div class="header__logo-container">
-              <img src="./images/Assets/logo/Logo.png" class="header__logo" />
-              <h1 class="info__title">
-                al-<span class="info__title-span-x">X<br /></span>Le ME<span
-                  class="info__title-span-s"
-                  >s</span
-                >TRE
-              </h1>
-            </div>
+            <img src="./images/Assets/logo/Logo.png" class="header__logo" />
+            <h1 class="info__title">
+              al-<span class="info__title-span-x">X<br /></span>Le ME<span
+                class="info__title-span-s"
+                >s</span
+              >TRE
+            </h1>
+
             <h2 class="info__subtitle">Front-End Developer & Artist</h2>
             <p class="info__description">
               Rooted in Port-au-Prince, now flourishing in New York and
@@ -39,9 +38,9 @@
             </p>
           </div>
 
-          <div class="nav-container">
+          <div class="nav">
+            <!-- Hamburger Icon (☰) can be text or an image -->
             <button class="hamburger-menu" aria-label="Open navigation menu">
-              <!-- Hamburger Icon (☰) can be text or an image -->
               ☰
             </button>
             <!-- Nav-->
@@ -55,16 +54,13 @@
                 >
               </li>
             </ul>
-            <!-- End Nav-->
-            <div class="header__portfolio">
-              <!-- Portfolio Image-->
-              <img
-                src="./images/Assets/profile/IMG_5906.png"
-                class="portfolio__image"
-              />
-              <!-- Call To Action-->
-              <p class="portfolio__subtitle">Let's Connect</p>
-            </div>
+            <!-- Portfolio Image-->
+            <img
+              src="./images/Assets/profile/IMG_5906.png"
+              class="portfolio__image"
+            />
+            <!-- Call To Action-->
+            <p class="nav__call-to-actions">Let's Connect</p>
             <!-- Social Media Links -->
             <div class="social-media-links">
               <a
@@ -104,5 +100,48 @@
         </div>
       </header>
     </div>
+
+    <script>
+      // Wait for the DOM to load
+      document.addEventListener("DOMContentLoaded", function () {
+        // Get the hamburger button and the navigation links
+        var hamburger = document.querySelector(".hamburger-menu");
+        var navLinks = document.querySelector(".nav__links");
+
+        // Listen for a click on the hamburger button
+        hamburger.addEventListener("click", function () {
+          // Toggle the 'active' class on the navigation links
+          navLinks.classList.toggle("active");
+        });
+      });
+
+      // Slideshow
+      let currentSlide = 0;
+      const slides = document.querySelectorAll(".slide");
+
+      function showSlide(index) {
+        if (index >= slides.length) {
+          currentSlide = 0;
+        } else if (index < 0) {
+          currentSlide = slides.length - 1;
+        } else {
+          currentSlide = index;
+        }
+
+        // Hide all slides and show the correct one
+        slides.forEach((slide) => (slide.style.display = "none"));
+        slides[currentSlide].style.display = "block";
+      }
+
+      function changeSlide(direction) {
+        showSlide(currentSlide + direction);
+      }
+
+      // Initially display the first slide
+      showSlide(currentSlide);
+
+      // Optional: add auto-slide functionality
+      setInterval(() => changeSlide(1), 3000); // Change slide every 3 seconds
+    </script>
   </body>
 </html>
