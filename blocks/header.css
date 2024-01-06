@@ -16,16 +16,14 @@
   position: relative;
   text-align: center;
   text-decoration: none; /* Remove underline */
-  border: 1px solid #c81919; /* Add a border */
 }
 
 .header__content {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  gap: 20px;
+  gap: 40px;
   flex-direction: row;
-  border: 1px solid #c81919; /* Add a border */
   margin: 0 auto;
 }
 /* Header Info */
@@ -34,8 +32,6 @@
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
-  margin: 0 auto;
-  border: 1px solid #c81919; /* Add a border */
 }
 
 .header__logo {
@@ -45,53 +41,57 @@
   width: 60px;
   max-width: fit-content;
   animation: pulsate 1.3s ease-in-out infinite; /* Apply the animation */
-  border: 1px solid #c81919; /* Add a border */
 }
 
 .info__title {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-weight: 500;
-  font-size: 120px;
-  margin: 0;
+  font-size: 100px;
+  margin: 40px auto 0;
   letter-spacing: 1px;
-  border: 1px solid #c81919; /* Add a border */
+  line-height: 90px;
 }
 
 .info__title-span-x {
   color: #daa51f;
-  font-size: 120px;
-  border: 1px solid #c81919; /* Add a border */
+  font-size: 100px;
 }
 .info__title-span-s {
   color: #daa51f;
   font-size: 90px;
-  border: 1px solid #c81919; /* Add a border */
 }
 .info__subtitle {
   color: #5e7342;
   font-weight: 600;
   margin-top: 8px;
-  font-size: 50px;
+  margin-bottom: 0;
+  font-size: 35px;
   letter-spacing: 1px;
-  border: 1px solid #c81919; /* Add a border */
+  line-height: 40px;
 }
 
 .info__description {
-  max-width: 900px;
+  max-width: 750px;
   color: #000000;
   padding: 20px;
-  font-size: 50px;
+  font-size: 38px;
   text-align: justify;
   margin-top: 0;
-  border: 1px solid #c81919; /* Add a border */
+  font-weight: 500;
+  line-height: 40px;
+}
+.info__places {
+  color: #bc8b51;
+  font-weight: 500;
 }
 
 .nav {
-  margin: 171px auto 0;
+  margin-top: 280px;
   max-width: fit-content;
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid #c81919; /* Add a border */
 }
 .hamburger-menu {
   display: none; /* Show the hamburger menu */
@@ -105,7 +105,7 @@
   color: #000000;
   list-style: none;
   text-decoration: none;
-  border: 1px solid #c81919; /* Add a border */
+  margin-bottom: 0;
 }
 
 .nav__link {
@@ -113,7 +113,7 @@
   color: #000000;
   padding: 10px 10px;
   font-weight: 500;
-  font-size: 46px;
+  font-size: 30px;
 }
 .nav__link:hover {
   color: white;
@@ -139,9 +139,8 @@
 }
 
 .portfolio__image {
-  padding-top: 120px;
-  max-width: 500px;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  max-width: 450px;
   height: auto;
   /* Clip-path
   clip-path: polygon(
@@ -164,17 +163,15 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 0 auto;
   gap: 30px;
-  border: 1px solid #c81919; /* Add a border */
 }
 
 .social-media-link {
   text-decoration: none; /* Remove the underline from links */
   color: #9f9005; /* Set your desired icon color */
-  font-size: 90px; /* Set your desired icon size */
-  border: 1px solid #c81919; /* Add a border */
+  font-size: 70px; /* Set your desired icon size */
+  transition: color 0.3s ease; /* Add transition to the color property */
 }
 
 .social-media-link:hover {
@@ -187,16 +184,135 @@
 }
 
 .nav__call-to-actions {
-  margin: 30px auto 20px;
+  margin: 10px auto 0;
   color: rgb(0, 0, 0);
-  font-size: 80px;
+  font-size: 40px;
   font-weight: 600;
-  border: 1px solid #c81919; /* Add a border */
 }
 
 /* Media queries */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1402px) {
+  .info__description {
+    max-width: 550px;
+    font-size: 40px;
+  }
+  .portfolio__image {
+    max-width: 800px;
+    padding-top: 0;
+    position: relative;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 1205px) {
+  /*Page*/
+  .page {
+    font-family: "Arial", sans-serif;
+    padding: 10px 10px;
+  }
+
+  /* Header */
+  .header__content {
+    flex-direction: column-reverse;
+    position: relative;
+  }
+  .header__logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: auto;
+    max-width: 100px;
+  }
+  .info__title {
+    font-size: 60px;
+    margin-bottom: 10px;
+    line-height: 60px;
+  }
+
+  .info__title-span-x {
+    font-size: 70px;
+  }
+  .info__title-span-s {
+    font-size: 50px;
+  }
+  .info__subtitle {
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 0;
+  }
+  .info__description {
+    max-width: 950px;
+    font-size: 38px;
+    padding: 15px;
+    line-height: 50px;
+    margin-bottom: 0;
+    font-weight: 500;
+  }
+
+  /* Navigation */
+  .nav {
+    margin: 100px auto 0;
+  }
+  .hamburger-menu {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    display: block;
+    cursor: pointer;
+    font-size: 60px;
+    border: none;
+    background-color: transparent;
+  }
+
+  .nav__links {
+    /* Initial state: hidden */
+    display: none;
+    /* Additional styles */
+  }
+
+  .nav__links.active {
+    /* When active, show the menu */
+    display: block;
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    margin-top: 0%;
+    text-align: end;
+    padding-left: 0;
+  }
+  .nav__link {
+    font-size: 20px;
+    line-height: 35px;
+  }
+
+  .portfolio__image {
+    max-width: 600px;
+    padding-top: 0;
+    position: relative;
+    margin-bottom: 0;
+  }
+
+  .social-media-links {
+    position: absolute;
+    top: 220px;
+    right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    gap: 0;
+    padding: 0;
+  }
+  .social-media-link {
+    font-size: 60px; /* Set your desired icon size */
+  }
+  .nav__call-to-actions {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 900px) {
   /*Page*/
   .page {
     font-family: "Arial", sans-serif;
@@ -218,34 +334,39 @@
   }
   .info__title {
     font-size: 60px;
-  }
-  .info__subtitle {
-    font-size: 40px;
-  }
-  .info__description {
-    font-size: 35px;
-    padding: 15px;
-    line-height: 60px;
+    margin-bottom: 10px;
   }
 
   .info__title-span-x {
     font-size: 70px;
   }
   .info__title-span-s {
-    font-size: 40px;
+    font-size: 50px;
+  }
+  .info__subtitle {
+    font-size: 35px;
+    line-height: 40px;
+    margin-bottom: 0;
+  }
+  .info__description {
+    font-size: 35px;
+    padding: 15px;
+    line-height: 40px;
+    margin-bottom: 0;
   }
 
   /* Navigation */
   .nav {
-    margin: 250px auto 20px;
+    margin: 150px auto 0;
   }
   .hamburger-menu {
     position: absolute;
     top: 0px;
-    right: 20px;
+    right: 10px;
     display: block;
     cursor: pointer;
     font-size: 60px;
+    border: none;
     background-color: transparent;
   }
 
@@ -255,39 +376,66 @@
     /* Additional styles */
   }
 
-  .nav__links.active {
-    /* When active, show the menu */
-    display: block;
-    position: absolute;
-    top: 80px;
-    right: 10px;
-    margin-top: 0%;
-    text-align: end;
-    padding-left: 0;
-  }
   .nav__link {
     font-size: 20px;
-    line-height: 35px;
   }
 
   .portfolio__image {
-    max-width: 300px;
+    max-width: 500px;
     padding-top: 0;
     position: relative;
+    margin-bottom: 0;
   }
-
   .social-media-links {
-    position: absolute;
-    right: 40px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+    top: 320px;
+    gap: 20px;
   }
   .social-media-link {
     font-size: 50px; /* Set your desired icon size */
   }
   .nav__call-to-actions {
-    font-size: 40px;
-    font-weight: 600;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 725px) {
+  .portfolio__image {
+    max-width: 400px;
+  }
+
+  .social-media-links {
+    top: 250px;
+  }
+}
+
+@media screen and (max-width: 635px) {
+  .info__subtitle {
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 0;
+  }
+
+  .social-media-links {
+    position: absolute;
+    top: 160px;
+    right: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    gap: 10px;
+    padding: 0;
+  }
+
+  .social-media-link {
+    font-size: 30px; /* Set your desired icon size */
+  }
+  .nav__link {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .portfolio__image {
+    margin-top: 50px;
   }
 }
