@@ -19,16 +19,16 @@
 }
 /* Header Styles */
 .header {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   background-color: rgb(88 106 112);
+  padding: 20px;
 }
 
 .header__content {
-  margin: 0 auto;
+  margin: 20px auto 80px;
 }
 /* Header Navigation */
 .hamburger {
@@ -88,9 +88,14 @@
 
 .header__heading {
   color: rgb(255, 255, 255);
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.greetings {
+  margin: 0;
 }
 .waving-hand {
   display: inline-block; /* Allows the transform to be applied correctly */
@@ -110,10 +115,9 @@
 .header__subheading {
   font-size: 18px;
   font-weight: 300 !important;
-
   border-top: dashed 1px rgb(255, 255, 255);
   border-bottom: dashed 1px rgb(255, 255, 255);
-  border-width: px;
+  margin-bottom: 0;
 }
 .social__image {
   max-width: 150px;
@@ -128,7 +132,7 @@
   flex-direction: column;
   justify-content: center;
   position: fixed;
-  right: 0;
+  right: 1%;
   top: 40%;
 }
 
@@ -167,14 +171,14 @@
     font-size: 40px;
     position: fixed;
     top: 40px;
-    left: 20px;
+    left: 5px;
   }
   .nav__list {
     display: none;
     flex-direction: column;
     position: fixed;
     top: 70px;
-    left: 30px;
+    left: 15px;
     padding: 0;
   }
   .nav__link--contact {
