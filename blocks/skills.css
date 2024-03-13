@@ -1,8 +1,10 @@
 .skills__container {
+  max-width: 750px;
+  width: 750px;
   height: auto;
   color: #ffffff;
-  font-size: 3em;
-  padding: 60px 40px;
+  font-size: 28px;
+  padding: 40px 40px;
   background: #1fc9c352; /* Change to match your design */
   border-radius: 40px; /* Optional: adds rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow */
@@ -17,7 +19,7 @@
 
 .skills__heading {
   text-align: center;
-  /* Add other styling as needed */
+  font-size: 70px;
 }
 
 .skills__list {
@@ -33,10 +35,8 @@
 
 .skill__title {
   color: #c96b1fd0;
-  flex-shrink: 0; /* Prevent the title from shrinking */
   margin-right: 20px;
-  font-size: 1.2em;
-  line-height: 50px;
+  font-size: 24px;
   font-weight: 500;
   margin-bottom: 8px;
   /* Add other styling as needed */

@@ -1,0 +1,11 @@
+.cover {
+  color: rgb(255, 255, 255);
+  font-size: 1em;
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  padding: 40px;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
