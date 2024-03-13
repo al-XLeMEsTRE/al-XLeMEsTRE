@@ -88,7 +88,7 @@
   max-width: 150px;
   border-radius: 50%;
   object-fit: fill;
-  box-shadow: 1px 1px 90px 40px #9e7f065e;
+  box-shadow: -1px -20px 80px 15px #6b9e065e;
 }
 
 .social__links {
