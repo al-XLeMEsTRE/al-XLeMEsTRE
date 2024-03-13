@@ -14,66 +14,73 @@
   <body>
     <div class="cover">
       <header class="header">
-        <nav class="header__nav">
-          <ul class="nav__list">
-            <li class="nav__item">
-              <a href="#about" class="nav__link">About</a>
-            </li>
-            <li class="nav__item">
-              <a href="#portfolio" class="nav__link">Portfolio</a>
-            </li>
+        <div class="header__content">
+          <nav class="header__nav">
+            <button class="hamburger" aria-label="Toggle navigation">
+              &#9776;
+            </button>
+            <!-- Navigation -->
+            <ul class="nav__list">
+              <li class="nav__item">
+                <a href="#about" class="nav__link">About</a>
+              </li>
+              <li class="nav__item">
+                <a href="#portfolio" class="nav__link">Portfolio</a>
+              </li>
+              <li class="nav__item">
+                <a href="#blogging" class="nav__link">Poetically Blogging</a>
+              </li>
+              <li class="nav__item">
+                <a href="#contact" class="nav__link nav__link--contact"
+                  >Contact</a
+                >
+              </li>
+            </ul>
+          </nav>
 
-            <li class="nav__item">
-              <a href="#blogging" class="nav__link">Poetically Blogging</a>
-            </li>
-            <li class="nav__item">
-              <a href="#contact" class="nav__link nav__link--contact"
-                >Contact</a
-              >
-            </li>
-          </ul>
-        </nav>
+          <div class="header__container">
+            <div class="header__info">
+              <p><span class="waving-hand">👋🏾</span> Salut, I'm</p>
+              <h2 class="header__heading">Gregory Alexandre</h2>
+            </div>
 
-        <div class="header__container">
-          <div class="header__info">
-            <p><span class="waving-hand">👋🏾</span> Salut, I'm</p>
-            <h2 class="header__heading">Gregory Alexandre</h2>
-          </div>
+            <div class="header__social">
+              <img
+                src="/images/profile/header-image.png"
+                alt="Your Image"
+                class="social__image"
+              />
+              <h4 class="header__subheading">Web Designer & Developer</h4>
+              <div class="social__links">
+                <a href="your-linkedin-url" class="social__link"
+                  ><i class="fab fa-linkedin"></i
+                ></a>
+                <a href="your-codepen-url" class="social__link"
+                  ><i class="fab fa-codepen"></i
+                ></a>
+                <a href="your-twitch-url" class="social__link"
+                  ><i class="fab fa-twitch"></i
+                ></a>
 
-          <div class="header__social">
-            <img
-              src="/images/profile/header-image.png"
-              alt="Your Image"
-              class="social__image"
-            />
-            <h4 class="header__subheading">Web Designer & Developer</h4>
-            <div class="social__links">
-              <a href="your-linkedin-url" class="social__link"
-                ><i class="fab fa-linkedin"></i
-              ></a>
-              <a href="your-codepen-url" class="social__link"
-                ><i class="fab fa-codepen"></i
-              ></a>
-              <a href="your-twitch-url" class="social__link"
-                ><i class="fab fa-twitch"></i
-              ></a>
-
-              <!-- Example: Using map icon for Roadmap -->
-              <a href="your-instagram-url" class="social__link"
-                ><i class="fab fa-instagram"></i
-              ></a>
+                <!-- Example: Using map icon for Roadmap -->
+                <a href="your-instagram-url" class="social__link"
+                  ><i class="fab fa-instagram"></i
+                ></a>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="header__description">
-          <p class="header__paragraph">
-            From <span class="header__place">Port-au-Prince</span> to
-            <span class="header__place">New York</span> and
-            <span class="header__place">Montreal</span>, I weave storytelling
-            into coding, creating engaging, user-centric websites and apps.
-          </p>
+          <div class="header__description">
+            <p class="header__paragraph">
+              From <span class="header__place">Port-au-Prince</span> to
+              <span class="header__place">New York</span> and
+              <span class="header__place">Montreal</span>, I weave storytelling
+              into coding, creating engaging, user-centric websites and apps.
+            </p>
+          </div>
         </div>
       </header>
     </div>
+
+    <script src="/scripts/script.js"></script>
   </body>
 </html>

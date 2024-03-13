@@ -23,10 +23,24 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  padding: 20px;
+  align-items: flex-start;
+}
+
+.header__content {
+  margin: 0 auto;
 }
 /* Header Navigation */
+.hamburger {
+  display: none;
+  font-size: 30px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.header__nav {
+  margin-bottom: 125px;
+}
 .nav__list {
   list-style-type: none;
   display: flex;
@@ -49,17 +63,17 @@
 .header__container {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  margin-top: 90px;
-  gap: 30px;
+  margin: 0 auto;
+  gap: 160px;
 }
 
 .header__heading {
   color: rgb(255, 255, 255);
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 700;
-  margin-bottom: 0;
+  margin-top: 0;
 }
 .waving-hand {
   display: inline-block; /* Allows the transform to be applied correctly */
@@ -77,12 +91,12 @@
 }
 
 .header__subheading {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300 !important;
-  color: gold;
+
   border-top: dashed 1px rgb(255, 255, 255);
   border-bottom: dashed 1px rgb(255, 255, 255);
-  border-width: 2px;
+  border-width: px;
 }
 .social__image {
   max-width: 150px;
@@ -100,6 +114,13 @@
   top: 40%;
 }
 
+.social__link {
+  display: inline-block;
+  width: 40px; /* Adjust based on your icon sizes */
+  height: 40px;
+  background-size: cover;
+}
+
 .fab {
   font-size: 1.5rem;
   color: cyan;
@@ -107,12 +128,12 @@
 
 .header__description {
   text-align: justify;
-  max-width: 550px;
-  margin: 0 auto;
+  max-width: 400px;
 }
 .header__paragraph {
   font-size: 20px;
   font-weight: 300;
+  margin: 0;
 }
 .header__place {
   font-size: 20px;
@@ -121,11 +142,35 @@
   font-style: italic;
 }
 
+/* Max Width 768px | Media Queries */
 @media (max-width: 768px) {
+  /* Header Navigation */
+  .hamburger {
+    display: block;
+    color: white;
+    font-size: 40px;
+    position: fixed;
+    top: 40px;
+    left: 20px;
+  }
+  .nav__list {
+    display: none;
+    flex-direction: column;
+    position: fixed;
+    top: 70px;
+    left: 30px;
+    padding: 0;
+  }
+  .nav__link--contact {
+    margin-left: 0;
+  }
+  /* Header Container Styles */
+
   .header__container {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 30px;
   }
   .header__description {
     text-align: center;
@@ -144,26 +189,83 @@
   }
 }
 
-.social__link {
-  display: inline-block;
-  width: 40px; /* Adjust based on your icon sizes */
-  height: 40px;
-  background-size: cover;
-}
+/* Max Width 480px | Media Queries */
+@media (max-width: 480px) {
+  /* Header Navigation adjustments for smaller screens */
+  .hamburger {
+    display: block;
+    color: white;
+    font-size: 30px; /* Adjusted for smaller screen */
+    position: fixed;
+    top: 20px; /* Adjusted positioning */
+    right: 20px; /* Positioning to the right for easier access */
+    z-index: 100; /* Ensure it's above other content */
+  }
 
-/* Example of using background images for icons */
-.social__link[href*="linkedin-url"] {
-  background-image: url("linkedin-icon.png");
-}
+  .nav__list {
+    display: none;
+    flex-direction: column;
+    text-align: center;
+    position: fixed;
+    top: 60px; /* Adjusted for smaller header */
+    left: 0; /* Take full width */
+    right: 0; /* Take full width */
+    padding: 20px; /* Added padding */
+    background-color: rgba(0, 0, 0, 0.486); /* Semi-transparent background */
+    color: white; /* Text color */
+    width: 100%; /* Full width */
+    box-sizing: border-box; /* Ensure padding doesn't add to width */
+    z-index: 99; /* Ensure list is below hamburger icon */
+  }
 
-.social__link[href*="codepen-url"] {
-  background-image: url("codepen-icon.png");
-}
+  .nav__link--contact {
+    margin-left: 0;
+  }
 
-.social__link[href*="roadmap-url"] {
-  background-image: url("roadmap-icon.png");
-}
+  /* Adjustments to header container and child elements */
+  .header__container {
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the start */
+    align-items: center;
+    gap: 20px; /* Reduced gap */
+  }
 
-.social__link[href*="instagram-url"] {
-  background-image: url("instagram-icon.png");
+  .header__heading {
+    font-size: 24px; /* Adjusted size */
+  }
+
+  .header__subheading {
+    font-size: 10px; /* Adjusted size */
+  }
+
+  .waving-hand {
+    font-size: 16px; /* Adjusted size */
+  }
+
+  .header__paragraph {
+    font-size: 16px;
+    text-align: justify;
+    margin-top: 20px;
+  }
+
+  .header__description {
+    text-align: center;
+    max-width: 100%; /* Full width to utilize space */
+    padding: 0 20px; /* Add padding */
+  }
+
+  .header__social {
+    display: flex;
+    flex-direction: row; /* Change direction to row for compact layout */
+    align-items: center;
+    justify-content: center; /* Center social links */
+    gap: 10px; /* Adjust gap */
+    padding-top: 20px; /* Add spacing above */
+  }
+  .social__image {
+    max-width: 100px; /* Adjusted size */
+  }
+  .social__links {
+    right: 0;
+  }
 }
