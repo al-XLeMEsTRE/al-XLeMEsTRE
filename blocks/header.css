@@ -24,6 +24,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  background-color: rgb(88 106 112);
 }
 
 .header__content {
@@ -50,13 +51,24 @@
 
 .nav__link {
   text-decoration: none;
-  color: cyan;
+  color: rgb(255, 255, 255);
+  transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.nav__link:hover {
+  color: rgb(180, 180, 180); /* Lighten color on hover */
+  transform: scale(1.1); /* Slightly enlarge link on hover */
 }
 
 .nav__link--contact {
-  color: rgb(255, 213, 0);
   margin-left: 80px;
   font-weight: 900;
+  transition: color 0.3s ease, transform 0.3s ease; /* Ensure smooth transition for hover effects */
+}
+
+.nav__link--contact:hover {
+  color: rgb(255, 255, 255); /* Change color to white on hover */
+  transform: translateY(-5px); /* Move up slightly on hover */
 }
 
 /* Header Container Styles */
@@ -64,14 +76,19 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
   margin: 0 auto;
   gap: 160px;
 }
 
+.greetings,
+.header__place,
+.nav__link--contact {
+  color: yellow;
+}
+
 .header__heading {
   color: rgb(255, 255, 255);
-  font-size: 32px;
+  font-size: 50px;
   font-weight: 700;
   margin-top: 0;
 }
@@ -102,7 +119,8 @@
   max-width: 150px;
   border-radius: 50%;
   object-fit: fill;
-  box-shadow: -1px -20px 80px 15px #6b9e065e;
+
+  box-shadow: -1px -20px 80px 15px rgba(58, 17, 2, 0.451);
 }
 
 .social__links {
@@ -110,19 +128,18 @@
   flex-direction: column;
   justify-content: center;
   position: fixed;
-  right: 5%;
+  right: 0;
   top: 40%;
 }
 
 .social__link {
   display: inline-block;
-  width: 40px; /* Adjust based on your icon sizes */
   height: 40px;
   background-size: cover;
 }
 
 .fab {
-  font-size: 1.5rem;
+  font-size: 20px;
   color: cyan;
 }
 
@@ -138,7 +155,6 @@
 .header__place {
   font-size: 20px;
   font-weight: 300;
-  color: gold;
   font-style: italic;
 }
 
@@ -185,7 +201,10 @@
 
   .social__links {
     display: flex;
-    gap: 10px;
+  }
+
+  .fab {
+    font-size: 18px;
   }
 }
 
@@ -267,5 +286,8 @@
   }
   .social__links {
     right: 0;
+  }
+  .fab {
+    font-size: 16px;
   }
 }

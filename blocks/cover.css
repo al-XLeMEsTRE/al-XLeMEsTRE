@@ -2,10 +2,11 @@
   color: rgb(255, 255, 255);
   font-size: 1em;
   font-family: "Arial", sans-serif;
-  line-height: 1.6;
-  padding: 40px;
-  background-color: black;
+  line-height: 1.2;
+  padding: 0px;
+  margin: 0;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  box-shadow: inset 0 0 0 2000px rgba(161, 65, 65, 0.058);
 }
