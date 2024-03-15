@@ -1,76 +1,54 @@
 .footer {
-  box-sizing: border-box;
-  background-color: #d3edeba9;
-  padding-left: 80px;
-  padding-right: 102px;
+  background-color: #262626; /* Dark background for modern look */
+  color: #f8f9fa;
+  padding: 40px 0;
+  font-family: "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, sans-serif;
 }
 
-.footer__columns {
-  position: relative;
-  display: flex;
-  justify-content: space-around;
-  padding-top: 60px;
-}
-
-.footer__column_content_hours {
-  display: flex;
-  flex-direction: column;
-  margin-left: auto;
-}
-
-.footer__column_content_social {
-  display: flex;
-  flex-direction: column;
-  margin-left: 100px;
+.footer__content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
 }
 
 .footer__logo {
-  margin-left: 0px;
-  width: 57px;
-  height: 80px;
+  max-width: 50px;
 }
 
-.footer__list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  color: #000000;
+.footer__nav {
+  margin-bottom: 20px;
 }
 
-.footer__list-item {
-  margin-bottom: 16px;
-}
-
-.footer__list-item:last-child {
-  margin-bottom: 0;
-}
-
-.footer__column-heading {
-  color: #000000;
-  font-size: inherit;
-}
-
-.footer__column-link {
-  color: rgb(0, 0, 0);
-  font-size: 16px;
-  line-height: 20px;
+.footer__link {
+  margin: 0 10px;
+  color: #f8f9fa;
   text-decoration: none;
-}
-.footer__column-link:hover {
-  color: #000000;
+  transition: color 0.3s ease;
 }
 
-.footer__social-icon {
-  width: 16px;
-  height: 16px;
-}
-.footer__list-item:last-child {
-  margin-bottom: 0;
+.footer__link:hover,
+.footer__link:focus {
+  color: #007bff; /* Highlight color on hover */
 }
 
-.footer__copyright {
-  margin-top: 108px;
-  padding-bottom: 60px;
-  margin-bottom: 0;
-  color: rgb(0, 0, 0);
+.footer__social {
+  margin-bottom: 20px;
+}
+
+.footer__social-link {
+  display: inline-block;
+  margin-right: 10px;
+  color: #f8f9fa;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer__social-link:hover,
+.footer__social-link:focus {
+  color: #007bff; /* Highlight color on hover */
+}
+
+.footer__copy {
+  font-size: 0.875rem;
 }

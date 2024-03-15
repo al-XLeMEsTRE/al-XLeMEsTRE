@@ -1,54 +1,69 @@
-.about-section {
+@keyframes pulseAnimation {
+  0%,
+  100% {
+    background-size: 100%;
+  }
+  50% {
+    background-size: 220%; /* Adjust size to create the pulse effect */
+  }
+}
+
+.about__section {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   color: #ffffff;
-  font-weight: 600;
   padding: 20px;
   background-image: url(/images/About/About-logo.svg);
   background-repeat: no-repeat;
   background-color: rgba(31, 32, 33, 0.743);
   background-size: cover;
   background-attachment: fixed;
-  background-position: 200px 200px;
+  background-position: center;
+  animation: pulseAnimation 9s infinite ease;
 }
 
-.about-container {
-  margin: 0 auto;
-}
-.about-header,
-.about-content,
-.skills-container {
-  width: 100%;
-  max-width: 1200px;
-  margin: 20px auto;
-  text-align: center;
+.about__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 40px;
 }
 
-.about-header {
+.about__header {
   max-width: 500px;
 }
 .about-heading {
-  font-size: 40px;
+  font-size: 60px;
 }
 .about-subheading {
   color: cyan;
 }
 
-.about-image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px; /* Optional: for styled image edges */
+.about__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 500px;
 }
-
 .about__description {
   text-align: justify;
-  max-width: 500px;
+  max-width: 400px;
+  font-size: 20px;
 }
 .about__description-1 {
   font-size: 20px;
   padding: 10px;
-  color: #ffe357;
+  color: yellow;
+}
+
+/* Skills Container */
+.skills-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 20px auto;
+  text-align: center;
 }
 
 .skills-icons {
@@ -59,11 +74,15 @@
 }
 
 .fab {
-  font-size: 20px;
+  font-size: 38px;
 }
 
 @media (max-width: 768px) {
-  .about-content,
+  .about__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
   .skills-container {
     flex-direction: column;
   }
