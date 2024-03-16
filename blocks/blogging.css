@@ -34,6 +34,7 @@
 }
 
 .blogging__image {
+  border-radius: 10px;
   width: 100%;
   display: block;
   transition: transform 0.3s ease;

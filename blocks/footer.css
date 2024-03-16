@@ -14,6 +14,7 @@
 
 .footer__logo {
   max-width: 50px;
+  margin-bottom: 40px;
 }
 
 .footer__nav {
@@ -51,4 +52,15 @@
 
 .footer__copy {
   font-size: 0.875rem;
+  margin-top: 40px;
+}
+
+.footer__name {
+  color: yellow; /* Highlight color for the name */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer__name-cyan {
+  color: cyan; /* Highlight color for the name */
 }

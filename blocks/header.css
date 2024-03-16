@@ -58,6 +58,7 @@
   justify-content: space-around;
   padding-left: 0;
   margin: 0;
+  z-index: 100;
 }
 
 .nav__link {
@@ -214,7 +215,7 @@
     display: none;
     flex-direction: column;
     position: fixed;
-    top: 70px;
+    top: 87px;
     left: 15px;
     padding: 0;
   }

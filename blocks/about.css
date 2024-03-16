@@ -1,10 +1,10 @@
 @keyframes pulseAnimation {
   0%,
   100% {
-    background-size: 100%;
+    background-size: 10%;
   }
   50% {
-    background-size: 220%; /* Adjust size to create the pulse effect */
+    background-size: 50%; /* Adjust size to create the pulse effect */
   }
 }
 
@@ -15,13 +15,12 @@
   justify-content: center;
   color: #ffffff;
   padding: 20px;
-  background-image: url(/images/About/About-logo.svg);
+  background-image: url(/images/blogging/The\ Messengers-1.png);
+  background-color: yellow;
   background-repeat: no-repeat;
-  background-color: rgba(31, 32, 33, 0.743);
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
-  animation: pulseAnimation 9s infinite ease;
 }
 
 .about__content {
@@ -36,9 +35,12 @@
 }
 .about-heading {
   font-size: 60px;
+  margin: 0;
 }
 .about-subheading {
   color: aqua;
+  text-align: center;
+  font-size: 22px;
 }
 
 .about__info {
@@ -46,11 +48,13 @@
   flex-direction: column;
   justify-content: center;
   max-width: 500px;
+  padding-right: 20px;
 }
+
 .about__description {
   text-align: justify;
   max-width: 400px;
-  font-size: 20px;
+  font-size: 18px;
 }
 .about__description-1 {
   font-size: 20px;
