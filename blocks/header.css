@@ -31,9 +31,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+
   background-color: #333333;
   padding: 20px;
+  box-sizing: content;
 }
 
 .header__content {
@@ -105,7 +106,7 @@
   display: flex;
   flex-direction: column;
   align-content: end;
-  text-align: start;
+  text-align: center;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
@@ -153,6 +154,7 @@
   border-top: dashed 1px rgb(255, 255, 255);
   border-bottom: dashed 1px rgb(255, 255, 255);
   margin-bottom: 0;
+  text-align: center;
 }
 .social__image {
   max-width: 300px;
@@ -176,13 +178,12 @@
 
 .social__link {
   display: inline-block;
-  height: 40px;
+  height: 35px;
   background-size: cover;
 }
 
 .fab {
-  font-size: 20px;
-  color: aqua;
+  color: rgb(255, 255, 255);
 }
 
 .header__description {
