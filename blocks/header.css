@@ -31,10 +31,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+  height: auto;
   background-color: #333333;
   padding: 20px;
-  box-sizing: content;
 }
 
 .header__content {
