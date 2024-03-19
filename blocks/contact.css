@@ -1,5 +1,5 @@
 .contact {
-  background-color: rgb(170, 172, 80);
+  background-color: rgb(107, 108, 64);
   padding: 50px 0;
   text-align: center;
   padding: 40px;
@@ -12,6 +12,7 @@
   background-position: center -130px;
   background-size: 400px;
   background-repeat: no-repeat;
+  background-position: center -200px;
 }
 
 .contact__title {
