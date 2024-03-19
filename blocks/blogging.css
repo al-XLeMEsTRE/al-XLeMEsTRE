@@ -1,5 +1,5 @@
 .blogging {
-  background-color: #625d5d;
+  background-color: #3a3c30;
   padding: 60px 0;
 }
 
@@ -53,6 +53,7 @@
 
 .blogging__post-title {
   margin-top: 0;
+  color: yellow;
 }
 
 .blogging__post-description {
