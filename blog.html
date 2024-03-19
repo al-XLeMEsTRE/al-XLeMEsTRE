@@ -7,66 +7,51 @@
     <link rel="stylesheet" href="./pages/styles.css" />
   </head>
   <body>
-    <header class="blog-header">
-      <h1 class="blog-header__title">L'ange de l'angle Perdu</h1>
+    <header class="header">
+      <div class="header__content">
+        <h1 class="header__title">L'ange de l'angle Perdu</h1>
+      </div>
     </header>
-    <div class="blog-container">
-      <main class="blog-content">
-        <article class="post">
-          <h2 class="post__title">al-X | Le MEsTRE</h2>
-          <p class="post__date">March 20, 2024</p>
-          <div class="post__images">
-            <img
-              src="/images/blogging/L'Angle de l'Angle Perdu 1.png"
-              alt="L'ange de l'Ange Perdu"
-              class="post__image"
-            />
-            <img
-              src="./images/blogging/L'Angle de l'Angle Perdu 1.png"
-              alt=""
-              class="post__image post__image--small"
-            />
-            <img
-              src="./images/blogging/L'Angle de l'Angle Perdu 1.png"
-              alt=""
-              class="post__image post__image--small"
-            />
-          </div>
-          <div class="post__text">
-            <h4>The Whispering Wings of Nature’s Sanctuary</h4>
-            <p>
-              In the cradle of an unassuming corner, where two walls meet at a
-              precise 90-degree angle, a breathtaking mural titled "L'ange
-              Perdu" or "The Lost Angel" unfolds its narrative...
-            </p>
-            <h4 class="post__text-highlight">
-              Nature's Breath: A Lyrical Ode to Life's Essence
-            </h4>
-            <p>
-              At first glance, "L'ange Perdu" might evoke the image of a grand
-              butterfly or moth in repose, its wings a tapestry of life
-              itself...
-            </p>
-          </div>
-        </article>
-      </main>
-      <aside class="blog-sidebar">
-        <div class="blog-sidebar__section">
+    <main class="main-content">
+      <section class="article-section">
+        <div class="article-section__info">
+          <h2 class="article-section__title">al-X | Le MEsTRE</h2>
+          <p class="article-section__date">March 20, 2024</p>
+        </div>
+        <div class="article-section__media">
+          <img
+            src="./images/blogging/L'Angle de l'Angle Perdu 1.png"
+            alt="L'ange de l'Ange Perdu"
+            class="article-section__image-main"
+          />
+        </div>
+        <div class="article-section__text">
+          <h3 class="article-section__subtitle">
+            The Whispering Wings of Nature’s Sanctuary
+          </h3>
+          <p class="article-section__paragraph">
+            In the cradle of an unassuming corner, where two walls meet at a
+            precise 90-degree angle...
+          </p>
+        </div>
+      </section>
+      <aside class="sidebar">
+        <div class="sidebar__block">
           <h3>About the Author</h3>
           <p>Description of the author or the blog.</p>
         </div>
-        <div class="blog-sidebar__section">
+        <div class="sidebar__block">
           <h3>Related Posts</h3>
-          <ul class="related-posts">
-            <li class="related-posts__item"><a href="#">Related Post 1</a></li>
-            <li class="related-posts__item"><a href="#">Related Post 2</a></li>
-            <li class="related-posts__item"><a href="#">Related Post 3</a></li>
+          <ul class="sidebar__links">
+            <li><a href="#">Related Post 1</a></li>
+            <li><a href="#">Related Post 2</a></li>
+            <li><a href="#">Related Post 3</a></li>
           </ul>
         </div>
       </aside>
-    </div>
-    <footer class="blog-footer">
-      <p class="blog-footer__content">Blog Footer Content</p>
+    </main>
+    <footer class="footer">
+      <p class="footer__text">Blog Footer Content</p>
     </footer>
   </body>
 </html>
