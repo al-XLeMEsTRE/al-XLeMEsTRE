@@ -76,3 +76,13 @@
   visibility: visible;
   opacity: 1;
 }
+.blogging__post-link {
+  text-decoration: none; /* Removes underline from links */
+  color: inherit; /* Keeps the text color consistent */
+}
+
+.blogging__post-date {
+  color: rgba(0, 255, 255, 0.267); /* Example color - adjust as needed */
+  font-style: italic; /* Optional: styles the date to be italic */
+  margin-top: 10px; /* Adds space above the date */
+}
