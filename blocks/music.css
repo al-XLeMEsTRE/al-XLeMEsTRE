@@ -1,23 +1,27 @@
 .music {
   text-align: center;
-  padding: 2rem;
+  padding: 20px;
   background-color: black;
 }
 
 .music__title {
-  margin-bottom: 1rem;
+  margin: 40px 0 20px;
   animation: fadeInUp 2s ease-out;
 }
 
 .music__intro {
-  margin-bottom: 2rem;
+  margin: 0 auto;
   color: #666;
-  font-size: 1rem;
+  font-size: 20px;
+  max-width: 700px;
+  text-align: center;
 }
 .music__genres {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 20px;
+  margin: 30px auto 60px;
 }
 
 .genre {
@@ -45,6 +49,7 @@
   height: 100%;
   object-fit: cover;
   transition: opacity 0.3s ease;
+  border-radius: 10px;
 }
 
 .genre__iframe {
