@@ -1,0 +1,107 @@
+@keyframes pulseAnimation {
+  0%,
+  100% {
+    background-size: 10%;
+  }
+  50% {
+    background-size: 50%; /* Adjust size to create the pulse effect */
+  }
+}
+
+.about__section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  padding: 20px;
+  background-image: url(../images/About/about.png);
+  background-color: yellow;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.about__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 50px;
+}
+
+.about__header {
+  max-width: 500px;
+}
+.about-heading {
+  font-size: 60px;
+  margin: 0;
+}
+.about-subheading {
+  color: aqua;
+  text-align: center;
+  font-size: 22px;
+}
+
+.about__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 500px;
+  padding-right: 20px;
+}
+
+.about__description {
+  text-align: justify;
+  max-width: 400px;
+  font-size: 18px;
+  margin-top: 0;
+}
+.about__description-1 {
+  font-size: 20px;
+  padding: 10px;
+  color: yellow;
+}
+
+/* Skills Container */
+.skills-container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.skills__title {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: cyan;
+}
+
+.skills-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.fab {
+  font-size: 38px;
+}
+
+@media (max-width: 768px) {
+  .about__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills-container {
+    flex-direction: column;
+  }
+
+  .description,
+  .skills-icons {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
