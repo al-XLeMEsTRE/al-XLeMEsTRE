@@ -99,13 +99,6 @@
     flex-direction: column;
   }
 
-  .header__paragraph {
-    font-size: 20px;
-    font-weight: 300;
-    margin: 0;
-    max-width: 429px;
-  }
-
   .description,
   .skills-icons {
     text-align: center;

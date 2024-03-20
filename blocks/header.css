@@ -96,7 +96,6 @@
 .header__info {
   display: flex;
   flex-direction: column;
-
   gap: 20px;
   margin-bottom: 20px;
 }
@@ -157,10 +156,8 @@
 }
 .social__image {
   max-width: 300px;
-  max-height: 300px;
+  max-height: 280px;
   border-radius: 50%;
-  object-fit: fill;
-
   box-shadow: #8d7022 1px 0px 300px 8px;
 }
 
@@ -183,6 +180,11 @@
 
 .fab {
   color: rgb(255, 255, 255);
+}
+
+.fab:hover {
+  transform: scale(1.1);
+  color: yellow;
 }
 
 .header__description {
@@ -244,6 +246,13 @@
     flex-direction: column;
     align-items: center;
     margin: 0 auto;
+  }
+
+  .header__paragraph {
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+    max-width: 400px;
   }
 
   .social__image {

@@ -12,17 +12,21 @@
 }
 
 .project {
-  max-width: 250px; /* Adjust based on your preference */
-  box-shadow: 0 4px 6px rgba(217, 189, 6, 0.81);
+  max-width: 230px; /* Adjust based on your preference */
+  box-shadow: 0 4px 6px rgba(251, 250, 244, 0.545);
   border-radius: 8px;
   overflow: hidden;
-  margin: 10px;
+  margin: 0;
   padding: 15px;
 }
 
 .project__image {
   max-width: 180px;
   height: 150px;
+}
+.project__image:hover {
+  transform: scale(1.3);
+  transition: transform 0.3s;
 }
 
 .project__links {
