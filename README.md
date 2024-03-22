@@ -49,8 +49,8 @@ Join me as I explore the musings and prose of al-X. Each blog post is a reflecti
 
 ![Project Screenshot]
 
-<p align="right">
-  <img src="/images/projects/al-x | Le MEsTRE.png" alt="Project Screenshot" width="200">
+<p align="left">
+  <img src="/images/projects/al-x | Le MEsTRE.png" alt="Project Screenshot" width="3350">
 </p>
 
 ---
