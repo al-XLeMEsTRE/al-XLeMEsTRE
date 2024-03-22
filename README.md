@@ -1,6 +1,6 @@
 # Gregory Alexandre - al-X Le MEsTRE
 
-<img src="images/blogging/Logo 5 (1).svg" alt="Gregory's Logo" width="180" height="200" align="right">
+<img src="images/Footer/Gregory&apos;s porfolio copy.png" alt="Gregory's Logo" width="180" height="200" align="right">
 
 ## 🚀 Creative Technologist | 💻 Web Designer & Developer
 
