@@ -4,13 +4,17 @@
 
 ## 🚀 Creative Technologist | 💻 Web Designer & Developer
 
-👋 **Salut! I'm Gregory** — A bridge between the narratives of our cultures and the binary world of coding. From the heart of Port-au-Prince to the bustling streets of New York and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
+## 👋 Salut! I'm Gregory
+
+A bridge between the narratives of our cultures and the binary world of coding. From the heart of Port-au-Prince to the bustling streets of New York and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
 
 ---
 
 ## 🌐 About Me
 
-Multilingual in both human and programming languages, I navigate through the realms of customer service and front-end web development. I'm an artisan at the keyboard, crafting experiences that resonate both visually and functionally.
+# Full Stack Software Engineer in Training
+
+Currently honing my skills as a Full Stack Software Engineer at [TripleTen Bootcamp](https://tripleten.com/). With a rich background as an artist, designer, and multilingual customer service specialist, I bring a unique and creative approach to technology and problem-solving.
 
 - **Location**: Brooklyn, NYC, USA
 - **Phone**: [(678)-467-9646](tel:+16784679646)
@@ -18,32 +22,33 @@ Multilingual in both human and programming languages, I navigate through the rea
 
 ---
 
-## 💼 Professional Journey
+## 🌐 Languages Proficiency
 
-With a palette comprising HTML5, CSS3, JavaScript, React, and a flair for UI/UX design, I am currently honing my skills through an intensive Full Stack Software Engineer Bootcamp. My approach integrates open-source philosophy with the brushstrokes of the arts.
-
-- **Current Role**: Web Development Trainee at TripleTen
-- **Interests**: Synchronicity in code, AI applications, Singularity contemplation
-
----
-
-## 🎨 Poetically Blogging
-
-Join me as I explore the musings and prose of al-X. Each blog post is a reflection of the depth found at the intersection of art and code.
+- 🇭🇹 Haitian Creole: Native
+- 🇫🇷 French: Native
+- 🇺🇸 English: Full Professional Proficiency
+- 🇪🇸 Spanish: Limited Working Proficiency
+- 🇸🇦 Arabic (MSA): Basic Understanding, Reading, and Writing; Knowledge of Tajweed Rules
 
 ---
 
 ## Technical Toolbox
 
-- 💻 **Front-End Development:** HTML5, CSS3, JavaScript, React.
-- 🧰 **UI/UX Design & Illustration:** Figma, Adobe Suite (Photoshop, Illustrator, XD).
-- 🖥️ **IDE Skills:** Proficient in Visual Studio Code.
-- 🤖 **Artificial Intelligence:** Exploring ChatGPT, OpenAI integrations, Bard and Gemini.
-- 📚 **Version Control:** Skilled in Git and GitHub.
-- 🌟 **Hospitality Skills:** Applying customer service excellence to UX.
-- 🔄 **Methodologies:** Agile and design thinking for adaptive, quality output.
-
----
+- 💻 **Front-End Development:**
+  - HTML5, CSS3, JavaScript (Pending)
+- 🧰 **UI/UX Design & Illustration:**
+  - Figma, Adobe Suite (Photoshop, Illustrator, XD)
+- 🖥️ **IDE Skills:**
+  - Proficient in Visual Studio Code
+- 🤖 **Artificial Intelligence:**
+  - Exploring ChatGPT, OpenAI integrations, Bard and Gemini
+- 📚 **Version Control:**
+  - Skilled in Git and GitHub
+- 🌟 **Hospitality Skills:**
+  - Applying customer service excellence to UX
+- 🔄 **Methodologies:**
+  - Employing Agile for iterative and incremental development.
+  - Utilizing design thinking to foster innovation and user-centric solutions.
 
 ## 📚 Highlighted Projects
 
@@ -75,21 +80,17 @@ Join me as I explore the musings and prose of al-X. Each blog post is a reflecti
 
 ## ![al-XLeMEsTRE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-XLeMEsTRE&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🌐 Languages Proficiency
-
-- 🇭🇹 Haitian Creole: Native
-- 🇫🇷 French: Native
-- 🇺🇸 English: Full Professional Proficiency
-- 🇪🇸 Spanish: Limited Working Proficiency
-- 🇸🇦 Arabic (MSA): Basic Understanding, Reading, and Writing; Knowledge of Tajweed Rules
-
----
-
 ## 📬 Contact Me
 
-I am always on the lookout for exciting freelance projects that challenge my skills and push the boundaries of web design and development. If you're seeking a dedicated, creative professional to bring your vision to life or to collaborate on a project that benefits from my unique blend of artistic sensibility and technical prowess, I'd love to hear from you.
+I'm eager for freelance projects that stretch my abilities in web design and development. If you need a creative professional to realize your vision or collaborate on innovative projects, reach out.
 
-Whether you're in search of a bespoke website design or an engaging app, my inbox is open for collaborations and exciting opportunities.
+For bespoke website designs or captivating apps, my inbox is always open for collaborations and new opportunities.
+
+## 🎨 Poetically Blogging
+
+Join me as I explore the musings and prose of al-X. Each blog post is a reflection of the depth found at the intersection of art and code.
+
+---
 
 - [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
 - [GitHub](https://github.com/al-XLeMEsTRE)
