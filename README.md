@@ -57,15 +57,11 @@ Join me as I explore the musings and prose of al-X. Each blog post is a reflecti
 - **[Triple Ten Coffee Shop](./images/projects/inside_coffee_shop.png)**: An engaging coffee shop website with advanced CSS techniques.
 - **[Around The US](https://fritzisfluent.github.io/Around-The-US/)**: An interactive journey through the U.S. landscapes.
 
----
-
-## 📚 Highlighted Projects
-
-| Project Screenshot                                                                     | Project                                                                                                                                  |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/Full%20ScreenShot.png" alt="Triple Ten Library Screenshot" width="100">     | **[Triple Ten Library](https://al-xlemestre.github.io/Library/)**: A digital library interface with semantic HTML5 and CSS Flexbox.      |
-| <img src="/Full%20ScreenShot.png" alt="Triple Ten Coffee Shop Screenshot" width="100"> | **[Triple Ten Coffee Shop](https://al-xlemestre.github.io/Coffee_Shop/)**: An engaging coffee shop website with advanced CSS techniques. |
-| <img src="/Full%20ScreenShot.png" alt="Around The US Screenshot" width="100">          | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
+| ---                                                                                   | Project                                                                                                                                  |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="/Full%20ScreenShot.png" alt="Triple Ten Library Screenshot" width="50">     | **[Triple Ten Library](https://al-xlemestre.github.io/Library/)**: A digital library interface with semantic HTML5 and CSS Flexbox.      |
+| <img src="/Full%20ScreenShot.png" alt="Triple Ten Coffee Shop Screenshot" width="50"> | **[Triple Ten Coffee Shop](https://al-xlemestre.github.io/Coffee_Shop/)**: An engaging coffee shop website with advanced CSS techniques. |
+| <img src="/Full%20ScreenShot.png" alt="Around The US Screenshot" width="50">          | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
 
 ---
 
