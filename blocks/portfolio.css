@@ -4,6 +4,11 @@
   background-color: #0a0a0a;
 }
 
+.projects__title {
+  margin: 60px 0 20px;
+  animation: fadeInUp 2s ease-out;
+}
+
 .projects__container {
   display: flex;
   flex-wrap: wrap;

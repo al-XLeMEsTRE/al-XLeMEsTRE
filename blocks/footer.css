@@ -1,6 +1,6 @@
 .footer {
-  background-color: #000000; /* Dark background for modern look */
-  color: #f8f9fa;
+  background-color: #0000008f; /* Dark background for modern look */
+
   padding: 40px 0;
   font-family: "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, sans-serif;
 }
@@ -13,8 +13,8 @@
 }
 
 .footer__logo {
-  max-width: 50px;
-  margin-bottom: 40px;
+  max-width: 56px;
+  margin: 60px 40px;
 }
 
 .footer__nav {
@@ -23,14 +23,14 @@
 
 .footer__link {
   margin: 0 10px;
-  color: #ffffff;
   text-decoration: none;
   transition: color 0.3s ease;
+  color: yellow;
 }
 
 .footer__link:hover,
 .footer__link:focus {
-  color: yellow; /* Highlight color on hover */
+  color: cyan; /* Highlight color on hover */
 }
 
 .footer__social {
