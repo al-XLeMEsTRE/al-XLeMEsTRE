@@ -300,10 +300,6 @@
     z-index: 99; /* Ensure list is below hamburger icon */
   }
 
-  .nav__link--contact {
-    margin-left: 0;
-  }
-
   /* Adjustments to header container and child elements */
   .header__container {
     flex-direction: column;

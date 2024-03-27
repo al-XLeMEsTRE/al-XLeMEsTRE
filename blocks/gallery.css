@@ -1,0 +1,31 @@
+.style-elegance {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.style-elegance__title {
+  margin-bottom: 30px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 15px;
+  padding: 0 50px;
+}
+
+.gallery__item {
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.gallery__image {
+  width: 40%;
+  height: auto;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.gallery__image:hover {
+  transform: scale(1.1);
+}
