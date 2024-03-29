@@ -10,6 +10,7 @@
 
 .about__section {
   display: flex;
+  height: 100vh;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -35,13 +36,14 @@
   max-width: 500px;
 }
 .about-heading {
-  font-size: 60px;
+  font-size: 50px;
   margin: 0;
 }
 .about-subheading {
   color: aqua;
   text-align: center;
   font-size: 22px;
+  animation: fadeInUp 2s ease-out;
 }
 
 .about__info {
@@ -103,5 +105,46 @@
   .skills-icons {
     text-align: center;
     margin-top: 20px;
+  }
+}
+
+/* Media Queries  480px*/
+@media (max-width: 480px) {
+  .about__section {
+    padding: 10px; /* Adjust padding */
+  }
+
+  .about__content {
+    gap: 20px; /* Reduce gap */
+  }
+
+  .about-heading {
+    font-size: 26px; /* Adjust font size */
+  }
+
+  .about-subheading {
+    font-size: 14px; /* Adjust font size */
+  }
+
+  .about__description,
+  .about__description-1 {
+    font-size: 14px; /* Adjust font size */
+  }
+
+  /* Skills Container adjustments */
+  .skills-container {
+    margin: 10px auto; /* Adjust margin */
+  }
+
+  .skills__title {
+    font-size: 20px; /* Adjust font size for the skills title */
+  }
+
+  .skills-icons {
+    gap: 10px; /* Reduce gap between icons */
+  }
+
+  .fab {
+    font-size: 28px; /* Adjust font size of the icons */
   }
 }

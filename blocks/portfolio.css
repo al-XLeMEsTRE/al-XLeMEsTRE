@@ -55,3 +55,47 @@
 .project__link:hover {
   background-color: #0056b3;
 }
+/* Media query for devices up to 480px */
+@media (max-width: 480px) {
+  .projects__container {
+    gap: 15px; /* Reduces the gap between projects for tighter layout */
+    margin: 20px auto; /* Adjusts the margin for a balanced look */
+  }
+
+  .project {
+    max-width: 200px; /* Slightly reduces the project box width for better fit */
+    padding: 10px; /* Adjusts padding for consistency */
+  }
+
+  .project__image {
+    max-width: 100%; /* Allows the image to be fully responsive within the container */
+    height: auto; /* Adjusts the height automatically to maintain aspect ratio */
+  }
+
+  .project__link {
+    padding: 6px 12px; /* Adjusts the padding for a more compact look */
+    font-size: 0.8rem; /* Slightly reduces the font size for better readability */
+  }
+}
+
+/* Media query for devices up to 320px */
+@media (max-width: 320px) {
+  .projects__container {
+    gap: 10px; /* Further reduces the gap for very small screens */
+  }
+
+  .project {
+    max-width: 100%; /* Allows project box to fill the container for a full-width look */
+    padding: 8px; /* Adjusts padding for space efficiency */
+  }
+
+  .project__image {
+    max-width: 100%; /* Ensures image scales down appropriately */
+    height: auto; /* Keeps image aspect ratio intact */
+  }
+
+  .project__link {
+    padding: 5px 10px; /* Further reduces the padding for a snug fit */
+    font-size: 0.7rem; /* Reduces the font size for better fit and readability */
+  }
+}

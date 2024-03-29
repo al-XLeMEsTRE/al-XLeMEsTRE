@@ -23,15 +23,15 @@
 .name-x,
 .name-s,
 .header__place {
-  color: #ffd700;
+  color: yellow;
 }
 
 .header {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: auto;
   background-color: #333333;
   padding: 20px;
 }
@@ -41,7 +41,7 @@
 }
 /* Header Navigation */
 .header__nav {
-  margin: 90px auto 40px;
+  margin: 40px auto 140px;
 }
 .hamburger {
   display: none;
@@ -49,6 +49,7 @@
   background: none;
   border: none;
   cursor: pointer;
+  color: yellow;
 }
 
 .nav__list {
@@ -72,7 +73,7 @@
 }
 
 .nav__link--contact {
-  color: #ffd700;
+  color: yellow;
   margin-left: 130px;
 
   transition: color 0.3s ease, transform 0.3s ease; /* Ensure smooth transition for hover effects */
@@ -115,7 +116,7 @@
   word-spacing: 5px;
 }
 .header__heading-1 {
-  font-size: 140px;
+  font-size: 130px;
   font-weight: 500;
   margin-top: 0;
   margin-bottom: 0;
@@ -123,6 +124,7 @@
 }
 
 .header__heading-2 {
+  font-size: 45px;
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -130,6 +132,10 @@
 .greetings {
   margin: 0;
   color: aqua;
+  text-align: start;
+  position: absolute;
+  top: 160px;
+  left: 40px;
 }
 .waving-hand {
   display: inline-block; /* Allows the transform to be applied correctly */
@@ -147,7 +153,7 @@
 }
 
 .header__subheading {
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 300 !important;
   border-top: dashed 1px rgb(255, 255, 255);
   border-bottom: dashed 1px rgb(255, 255, 255);
@@ -189,12 +195,12 @@
 
 .header__description {
   text-align: justify;
-  max-width: 400px;
 }
 .header__paragraph {
   font-size: 20px;
   font-weight: 300;
   margin: 0;
+  max-width: 350px;
 }
 .header__place {
   font-size: 20px;
@@ -207,11 +213,11 @@
   /* Header Navigation */
   .hamburger {
     display: block;
-    color: white;
     font-size: 40px;
     position: fixed;
     top: 40px;
-    left: 5px;
+    left: 12px;
+    z-index: 100;
   }
   .nav__list {
     display: none;
@@ -276,7 +282,6 @@
   /* Header Navigation adjustments for smaller screens */
   .hamburger {
     display: block;
-    color: white;
     font-size: 30px; /* Adjusted for smaller screen */
     position: fixed;
     top: 20px; /* Adjusted positioning */
@@ -305,14 +310,13 @@
     flex-direction: column;
     justify-content: flex-start; /* Align content to the start */
     align-items: center;
-    gap: 20px; /* Reduced gap */
   }
 
   .header__heading-1 {
-    font-size: 100px; /* Adjusted size */
+    font-size: 80px; /* Adjusted size */
   }
   .header__heading-2 {
-    font-size: 40px; /* Adjusted size */
+    font-size: 30px; /* Adjusted size */
   }
 
   .header__subheading {
@@ -350,7 +354,7 @@
     max-width: 100px; /* Adjusted size */
   }
   .social__links {
-    right: 0;
+    right: 8px;
   }
   .fab {
     font-size: 16px;
