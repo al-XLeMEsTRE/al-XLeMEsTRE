@@ -308,8 +308,11 @@
     gap: 20px; /* Reduced gap */
   }
 
-  .header__heading {
-    font-size: 24px; /* Adjusted size */
+  .header__heading-1 {
+    font-size: 100px; /* Adjusted size */
+  }
+  .header__heading-2 {
+    font-size: 40px; /* Adjusted size */
   }
 
   .header__subheading {
@@ -321,14 +324,19 @@
   }
 
   .header__paragraph {
-    font-size: 16px;
+    font-size: 14px;
     text-align: justify;
-    margin-top: 20px;
+    margin-top: 0;
+    max-width: 200px; /* Full width to utilize space */
+  }
+  .header__place {
+    font-size: 14px;
+    font-weight: 300;
+    font-style: italic;
   }
 
   .header__description {
-    text-align: center;
-    max-width: 100%; /* Full width to utilize space */
+    text-align: justify;
     padding: 0 20px; /* Add padding */
   }
 
@@ -337,8 +345,6 @@
     flex-direction: row; /* Change direction to row for compact layout */
     align-items: center;
     justify-content: center; /* Center social links */
-    gap: 10px; /* Adjust gap */
-    padding-top: 20px; /* Add spacing above */
   }
   .social__image {
     max-width: 100px; /* Adjusted size */
