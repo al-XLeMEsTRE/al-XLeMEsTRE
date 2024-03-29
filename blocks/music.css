@@ -2,11 +2,11 @@
   text-align: center;
   padding: 40px;
   background-color: black;
-  border-top: #c8d215;
+  box-shadow: inset 0 0 10px #c9d2157d, 0px -20px 140px 0px #fefdd240;
 }
 
 .music__title {
-  margin: 40px 0 20px;
+  padding: 40px 0 20px;
   animation: fadeInUp 2s ease-out;
 }
 

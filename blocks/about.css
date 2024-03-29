@@ -10,7 +10,7 @@
 
 .about__section {
   display: flex;
-  height: 100vh;
+  height: auto;
   flex-direction: column;
   align-items: center;
   justify-content: center;

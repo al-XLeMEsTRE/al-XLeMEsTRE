@@ -1,7 +1,7 @@
 .style-elegance {
   background-color: #000;
   text-align: center;
-  padding: 60px;
+  padding: 40px;
   color: #fff;
 }
 
@@ -28,7 +28,6 @@
 .philosophy__quote cite {
   display: block;
   color: rgba(255, 255, 0, 0.397);
-
   margin-top: 10px;
   font-style: normal;
   font-weight: bold;
@@ -38,6 +37,7 @@
   font-size: 30px;
   margin-bottom: 30px;
 }
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -86,9 +86,31 @@
   transform: translateY(0);
 }
 
-/* Responsive adjustments for smaller screens */
-@media (max-width: 600px) {
-  .gallery__item {
-    grid-template-columns: 1fr;
+/* Responsive adjustments for screens up to 480px */
+@media (max-width: 480px) {
+  .philosophy__quote {
+    font-size: 1rem; /* Slightly smaller font size for better readability */
+  }
+
+  .gallery {
+    grid-template-columns: 1fr; /* Adjust to a single column layout */
+    padding: 0 20px; /* Reduce padding for more space */
+  }
+
+  .style-elegance__title,
+  .gallery__description {
+    font-size: 24px; /* Adjust font size for better visibility */
+  }
+}
+
+/* Further adjustments for screens up to 320px */
+@media (max-width: 320px) {
+  .philosophy__quote {
+    font-size: 0.9rem; /* Further reduce the font size for smallest screens */
+  }
+
+  .style-elegance__title,
+  .gallery__description {
+    font-size: 22px; /* Slight adjustment for extremely small screens */
   }
 }
