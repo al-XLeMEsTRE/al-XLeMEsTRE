@@ -66,6 +66,7 @@
 }
 
 .blogging__post-description {
+  font-size: 16px;
   display: none;
   visibility: hidden;
   opacity: 0;
@@ -91,9 +92,10 @@
 }
 
 .blogging__post-date {
-  color: rgba(0, 255, 255, 0.267); /* Example color - adjust as needed */
+  color: aqua; /* Example color - adjust as needed */
   font-style: italic; /* Optional: styles the date to be italic */
   margin-top: 10px; /* Adds space above the date */
+  font-size: 14px;
 }
 /* Media query for devices up to 480px */
 @media (max-width: 480px) {
