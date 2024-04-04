@@ -1,5 +1,5 @@
 .services {
-  background-color: #f8f9fa;
+  background-color: yellow;
   text-align: center;
   padding: 60px 15px;
 }
@@ -12,13 +12,21 @@
 .services__title {
   color: #333;
   margin-bottom: 40px;
+  font-size: 2rem; /* Added for title size enhancement */
+}
+
+.services__category-title {
+  color: #0056b3; /* A distinct color for category titles */
+  margin: 40px 0 20px; /* Added margin for spacing */
+  font-size: 1.5rem; /* Size for category titles */
 }
 
 .services__grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 30px;
+  gap: 20px;
   padding: 0;
+  max-width: 1200px;
 }
 
 .service {
@@ -27,36 +35,103 @@
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Added shadow for depth */
 }
 
 .service:hover {
   transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
 }
 
 .service__image {
   width: 100%;
-  height: auto;
+  height: 200px; /* Fixed height for uniformity */
+  object-fit: cover; /* Ensures the image covers the area nicely */
   border-bottom: 1px solid #ddd;
 }
 
 .service__name {
   color: #007bff;
   margin: 20px 0 10px;
+  font-weight: bold; /* Makes the service name stand out more */
 }
 
 .service__description {
   padding: 0 20px 20px;
   color: #666;
   font-size: 14px;
+  text-align: justify; /* Improved readability */
+}
+
+/* Media Queries */
+
+@media (max-width: 1107px) {
+  .services__grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    max-width: 800px;
+    margin: 0 auto;
+  }
 }
 
 /* Media Query for devices smaller than 768px */
 @media (max-width: 768px) {
+  .service__description {
+    font-size: 16px; /* Slightly larger font for better readability on smaller screens */
+  }
+}
+
+/* General styles applied above remain the same */
+
+/* Media Query for devices up to 480px */
+@media (max-width: 480px) {
+  .services__title {
+    font-size: 1.8rem; /* Adjust title size for smaller screens */
+  }
+
+  .services__category-title {
+    font-size: 1.4rem; /* Adjust category title size */
+  }
+
   .services__grid {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: 1fr; /* Single column layout */
+    gap: 20px;
+  }
+
+  .service__name {
+    margin: 15px 0; /* Reduce spacing around the service name */
+    font-size: 1.2rem; /* Smaller font size for service names */
   }
 
   .service__description {
-    font-size: 16px; /* Slightly larger font for better readability on smaller screens */
+    font-size: 14px; /* Adjust font size for better readability */
+    padding: 0 15px 20px; /* Adjust padding for a snug fit */
+  }
+
+  .service__image {
+    height: 180px; /* Adjust image height to fit smaller screens */
+  }
+}
+
+/* Media Query for devices up to 320px */
+@media (max-width: 320px) {
+  .services__title {
+    font-size: 1.6rem; /* Further reduce for very small screens */
+  }
+
+  .services__category-title {
+    font-size: 1.2rem; /* Adjust for smaller screens */
+  }
+
+  .service__name {
+    font-size: 1.1rem; /* Smaller font size for very small screens */
+  }
+
+  .service__description {
+    font-size: 13px; /* Slightly smaller font for compact readability */
+    padding: 0 10px 15px; /* Adjust padding for a tighter fit */
+  }
+
+  .service__image {
+    height: 160px; /* Adjust image height for very small screens */
   }
 }
