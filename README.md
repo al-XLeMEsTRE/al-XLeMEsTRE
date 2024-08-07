@@ -6,7 +6,7 @@
 
 ## 👋 Salut! I'm Gregory
 
-A bridge between the narratives of our cultures and the binary world of coding. From the heart of Port-au-Prince to the bustling streets of New York and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
+From the heart of Port-au-Prince to the bustling streets of New York and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
 
 ---
 
