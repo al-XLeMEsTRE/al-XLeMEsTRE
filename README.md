@@ -6,7 +6,7 @@
 
 ## 👋 Salut! I'm Gregory
 
-From the heart of Port-au-Prince to the bustling streets of New York and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
+From the heart of Port-au-Prince to the bustling streets of New York, ATL and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
 
 ---
 
@@ -14,7 +14,7 @@ From the heart of Port-au-Prince to the bustling streets of New York and the div
 
 # Full Stack Software Engineer in Training
 
-Currently honing my skills as a Full Stack Software Engineer at [TripleTen Bootcamp](https://tripleten.com/). With a rich background as an artist, designer, and multilingual customer service specialist, I bring a unique and creative approach to technology and problem-solving.
+Currently honing my skills as a Full Stack Software Engineer. With a rich background as an artist, designer, and multilingual customer service specialist, I bring a unique and creative approach to technology and problem-solving.
 
 - **Location**: Brooklyn, NYC, USA
 - **Phone**: [(678)-467-9646](tel:+16784679646)
