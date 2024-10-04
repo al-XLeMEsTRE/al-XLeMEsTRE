@@ -1,4 +1,4 @@
-# Gregory Alexandre - al-X Le MEsTRE
+# Gregory Alexandre - al-X Le MEsTRE #
 
 <img src="images/Footer/Gregory&apos;s porfolio copy.png" alt="Gregory's Logo" width="180" height="200" align="right">
 
@@ -16,7 +16,7 @@ From the heart of Port-au-Prince to the bustling streets of New York, ATL and th
 
 Currently honing my skills as a Full Stack Software Engineer. With a rich background as an artist, designer, and multilingual customer service specialist, I bring a unique and creative approach to technology and problem-solving.
 
-- **Location**: Brooklyn, NYC, USA
+- **Location**: Brooklyn, Atl, USA
 - **Phone**: [(678)-467-9646](tel:+16784679646)
 - **Email**: [gregoryalexandre369@gmail.com](mailto:gregoryalexandre369@gmail.com)
 
