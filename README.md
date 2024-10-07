@@ -52,7 +52,7 @@ Currently honing my skills as a Full Stack Software Engineer. With a rich backgr
 
 ## 📚 Highlighted Projects
 
-![Project Screenshot]
+![Profile Screenshot]
 
 <p align="left">
   <img src="/images/projects/al-x | Le MEsTRE.png" alt="Project Screenshot" width="250">
