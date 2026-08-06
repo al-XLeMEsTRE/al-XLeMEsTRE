@@ -17,16 +17,17 @@ Currently focused on:
 - AI Workflows
 ---
 
-## 🌐 About Me
+## 🌍 About Me
 
-# Full Stack Software Engineer in Training
+# Software Developer • Creative Technologist • Founder of Duality Solutions
 
-Currently honing my skills as a Full Stack Software Engineer. With a rich background as an artist, designer, and multilingual customer service specialist, I bring a unique and creative approach to technology and problem-solving.
+I'm a software developer with a multidisciplinary background in design, branding, and digital experiences. I enjoy building responsive websites, intuitive user interfaces, and modern web applications that combine clean engineering with thoughtful design.
 
-- **Location**: Brooklyn, Atl, USA
-- **Phone**: [(678)-467-9646](tel:+16784679646)
-- **Email**: [gregoryalexandre369@gmail.com](mailto:gregoryalexandre369@gmail.com)
+Currently focused on expanding my expertise in JavaScript, React, backend development, and AI-assisted software engineering while building projects that strengthen both my technical skills and creative vision.
 
+- 📍 **Location:** Manhattan, Kansas, USA
+- 💼 **Open to:** Software Engineering Internships & Freelance Opportunities
+- 🌱 **Currently Learning:** JavaScript • React • Node.js • Full-Stack Development
 ---
 
 ## 🌐 Languages Proficiency
