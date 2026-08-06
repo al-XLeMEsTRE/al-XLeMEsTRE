@@ -65,32 +65,41 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 | <img src="./images/projects/Around The US.png" alt="Around The US Screenshot" width="50">               | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
 
 ---
-## Currently Learning
-
-- JavaScript
-- DOM Manipulation
-- Git Workflow
-- React
-- APIs
-- Backend Development
----
-
-## 📊 GitHub Stats
-
-## ![al-XLeMEsTRE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-XLeMEsTRE&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-## 📬 Contact Me
-
-I'm eager for freelance projects that stretch my abilities in web design and development. If you need a creative professional to realize your vision or collaborate on innovative projects, reach out.
-
-For bespoke website designs or captivating apps, my inbox is always open for collaborations and new opportunities.
 
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
-- [GitHub](https://github.com/al-XLeMEsTRE)
-- [Instagram](https://instagram.com/al_x_lemestre)
-- [CodePen](https://codepen.io/al-XLeMEsTRE)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-XLeMEsTRE&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-XLeMEsTRE&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/gregoryalexandre369/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/al-XLeMEsTRE">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/al-XLeMEsTRE">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/al_x_lemestre">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <i>Building thoughtful digital experiences through design, code, and systems.</i>
+</p>
