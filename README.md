@@ -48,22 +48,6 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 | CSS3 | Tailwind CSS | Photoshop | Git | Node.js |
 | JavaScript | Responsive Design | Illustrator | GitHub | Express |
 | | | | ChatGPT | MongoDB |
-## 📚 Highlighted Projects
-
-![Profile Screenshot]
-
-<p align="left">
-  <img src="/images/projects/al-x | Le MEsTRE.png" alt="Project Screenshot" width="250">
-</p>
-
----
-
-| Project Screenshot                                                                                      | Project                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="./images/projects/inside_the_library.png" alt="Triple Ten Library Screenshot" width="50">     | **[Triple Ten Library](https://al-xlemestre.github.io/Library/)**: A digital library interface with semantic HTML5 and CSS Flexbox.      |
-| <img src="./images/projects/inside_coffee_shop.png" alt="Triple Ten Coffee Shop Screenshot" width="50"> | **[Triple Ten Coffee Shop](https://al-xlemestre.github.io/Coffee_Shop/)**: An engaging coffee shop website with advanced CSS techniques. |
-| <img src="./images/projects/Around The US.png" alt="Around The US Screenshot" width="50">               | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
-
 
 ---
 ## 🚀 Featured Projects
