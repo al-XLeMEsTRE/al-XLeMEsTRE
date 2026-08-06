@@ -1,13 +1,20 @@
-# Gregory Alexandre - al-X Le MEsTRE #
+## About Me
 
-<img src="images/Footer/Gregory&apos;s porfolio copy.png" alt="Gregory's Logo" width="180" height="200" align="right">
+I'm a software developer and multidisciplinary designer passionate about
+creating thoughtful digital products.
 
-## 🚀 Creative Technologist | 💻 Web Designer & Developer
+My background combines design, technology and storytelling, allowing me
+to approach software from both an engineering and user experience
+perspective.
 
-## 👋 Salut! I'm Gregory
+Currently focused on:
 
-From the heart of Port-au-Prince to the bustling streets of New York, ATL and the diverse ambiance of Montreal, I blend storytelling with technology to create immersive, user-centric digital experiences.
-
+- Frontend Development
+- JavaScript
+- UI Engineering
+- Git & GitHub
+- Responsive Design
+- AI Workflows
 ---
 
 ## 🌐 About Me
@@ -32,24 +39,43 @@ Currently honing my skills as a Full Stack Software Engineer. With a rich backgr
 
 ---
 
-## Technical Toolbox
+## Tech Stack
 
-- 💻 **Front-End Development:**
-  - HTML5, CSS3, JavaScript (Pending)
-- 🧰 **UI/UX Design & Illustration:**
-  - Figma, Adobe Suite (Photoshop, Illustrator, XD)
-- 🖥️ **IDE Skills:**
-  - Proficient in Visual Studio Code
-- 🤖 **Artificial Intelligence:**
-  - Exploring ChatGPT, OpenAI integrations, Bard and Gemini
-- 📚 **Version Control:**
-  - Skilled in Git and GitHub
-- 🌟 **Hospitality Skills:**
-  - Applying customer service excellence to UX
-- 🔄 **Methodologies:**
-  - Employing Agile for iterative and incremental development.
-  - Utilizing design thinking to foster innovation and user-centric solutions.
+### Languages
 
+- HTML5
+- CSS3
+- JavaScript
+
+### Frameworks
+
+- Bootstrap
+- Tailwind CSS
+
+### Design
+
+- Figma
+- Photoshop
+- Illustrator
+
+### Development
+
+- VS Code
+- Git
+- GitHub
+
+### AI
+
+- ChatGPT
+- Claude
+- Gemini
+
+### Currently Learning
+
+- React
+- Node.js
+- Express
+- MongoDB
 ## 📚 Highlighted Projects
 
 ![Profile Screenshot]
@@ -67,13 +93,14 @@ Currently honing my skills as a Full Stack Software Engineer. With a rich backgr
 | <img src="./images/projects/Around The US.png" alt="Around The US Screenshot" width="50">               | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
 
 ---
+## Currently Learning
 
-## 🎓 Education
-
-**Full Stack Software Engineer Bootcamp**
-
-- Expanding my knowledge in full-stack technologies, including back-end systems and databases.
-
+- JavaScript
+- DOM Manipulation
+- Git Workflow
+- React
+- APIs
+- Backend Development
 ---
 
 ## 📊 GitHub Stats
@@ -86,17 +113,12 @@ I'm eager for freelance projects that stretch my abilities in web design and dev
 
 For bespoke website designs or captivating apps, my inbox is always open for collaborations and new opportunities.
 
-## 🎨 Poetically Blogging
-
-Join me as I explore the musings and prose of al-X. Each blog post is a reflection of the depth found at the intersection of art and code.
 
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/gregoryalexandre369/)
 - [GitHub](https://github.com/al-XLeMEsTRE)
-- [Twitter](https://twitter.com/al_XLeMEsTRE)
 - [Instagram](https://instagram.com/al_x_lemestre)
 - [CodePen](https://codepen.io/al-XLeMEsTRE)
-- [Twitch](https://www.twitch.tv/gregoryalexandre369)
 
 ---
