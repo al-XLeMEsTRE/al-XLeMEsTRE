@@ -40,43 +40,14 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Languages
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Frameworks
-
-- Bootstrap
-- Tailwind CSS
-
-### Design
-
-- Figma
-- Photoshop
-- Illustrator
-
-### Development
-
-- VS Code
-- Git
-- GitHub
-
-### AI
-
-- ChatGPT
-- Claude
-- Gemini
-
-### Currently Learning
-
-- React
-- Node.js
-- Express
-- MongoDB
+| Languages | Frontend | Design | Tools | Learning |
+|-----------|----------|--------|-------|----------|
+| HTML5 | Bootstrap | Figma | VS Code | React |
+| CSS3 | Tailwind CSS | Photoshop | Git | Node.js |
+| JavaScript | Responsive Design | Illustrator | GitHub | Express |
+| | | | ChatGPT | MongoDB |
 ## 📚 Highlighted Projects
 
 ![Profile Screenshot]
