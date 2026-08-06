@@ -64,16 +64,73 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 | <img src="./images/projects/inside_coffee_shop.png" alt="Triple Ten Coffee Shop Screenshot" width="50"> | **[Triple Ten Coffee Shop](https://al-xlemestre.github.io/Coffee_Shop/)**: An engaging coffee shop website with advanced CSS techniques. |
 | <img src="./images/projects/Around The US.png" alt="Around The US Screenshot" width="50">               | **[Around The US](https://al-xlemestre.github.io/Arround-The-US/)**: An interactive journey through the U.S. landscapes.                 |
 
----
-
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### ☕ Coffee Shop
+
+Responsive landing page built with HTML & CSS.
+
+**Tech**
+- HTML5
+- CSS3
+- Flexbox
+
+🔗 [Live Demo](https://al-xlemestre.github.io/Coffee_Shop/)
+
+</td>
+
+<td width="33%">
+
+### 📚 Library
+
+Semantic HTML digital library interface.
+
+**Tech**
+- HTML5
+- CSS Grid
+- Flexbox
+
+🔗 [Live Demo](https://al-xlemestre.github.io/Library/)
+
+</td>
+
+<td width="33%">
+
+### 🇺🇸 Around the US
+
+Interactive responsive gallery.
+
+**Tech**
+- HTML
+- CSS
+- JavaScript
+
+🔗 [Live Demo](https://al-xlemestre.github.io/Arround-The-US/)
+
+</td>
+
+</tr>
+</table>
+---
+
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-XLeMEsTRE&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-XLeMEsTRE&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-XLeMEsTRE&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=al-XLeMEsTRE&theme=github-dark&hide_border=true" />
 </p>
 
 ---
