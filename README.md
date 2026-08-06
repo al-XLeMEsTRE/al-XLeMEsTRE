@@ -19,7 +19,7 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 
 <td width="35%">
 
-<img src="./images/_1SS9947.jpg " width="220" style="border-radius:50%;">
+<img src="./images/_1SS9947.jpg" width="220" alt="Gregory Alexandre">
 
 </td>
 
