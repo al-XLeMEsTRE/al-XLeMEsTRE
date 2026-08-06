@@ -25,7 +25,7 @@ Currently focused on expanding my expertise in JavaScript, React, backend develo
 
 <td align="center" width="45%" valign="middle">
 
-<img src="./images/_1SS9947.jpg" width="240" style="border-radius:50%;">
+<img src="./images/_1SS9947.jpg" width="220" style="border-radius:30%;">
 </td>
 
 </tr>
