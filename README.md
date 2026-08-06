@@ -1,22 +1,3 @@
-## About Me
-
-I'm a software developer and multidisciplinary designer passionate about
-creating thoughtful digital products.
-
-My background combines design, technology and storytelling, allowing me
-to approach software from both an engineering and user experience
-perspective.
-
-Currently focused on:
-
-- Frontend Development
-- JavaScript
-- UI Engineering
-- Git & GitHub
-- Responsive Design
-- AI Workflows
----
-
 ## 🌍 About Me
 
 # Software Developer • Creative Technologist • Founder of Duality Solutions
