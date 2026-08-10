@@ -17,7 +17,7 @@ I'm a software developer with a multidisciplinary background in design, branding
 
 Currently focused on expanding my expertise in JavaScript, React, backend development, and AI-assisted software engineering while building projects that strengthen both my technical skills and creative vision.
 
-- 📍 **Location:** Manhattan, Kansas, USA
+- 📍 **Location:** Remote
 - 💼 **Open to:** Software Engineering Internships & Freelance Opportunities
 - 🌱 **Currently Learning:** JavaScript • React • Node.js • Full-Stack Development
 
