@@ -1,6 +1,6 @@
 # Gregory Alexandre
 
-### Software Developer • Creative Technologist • Founder of Duality Solutions
+### Front-End Developer • Creative Technologist • Founder of Duality Solutions
 
 > Building thoughtful digital experiences where design, engineering, and storytelling intersect.
 
