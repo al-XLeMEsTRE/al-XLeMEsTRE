@@ -13,13 +13,13 @@
 
 ## 🌍 About Me
 
-I'm a software developer with a multidisciplinary background in design, branding, and digital experiences. I enjoy building responsive websites, intuitive user interfaces, and modern web applications that combine clean engineering with thoughtful design.
+I'm Front-End developer with a multidisciplinary background in design, branding, and digital experiences. I enjoy building responsive websites, intuitive user interfaces, and modern web applications that combine clean engineering with thoughtful design.
 
-Currently focused on expanding my expertise in JavaScript, React, backend development, and AI-assisted software engineering while building projects that strengthen both my technical skills and creative vision.
+Currently focused on expanding my expertise in JavaScript, React, and AI-assisted software engineering while building projects that strengthen both my technical skills and creative vision.
 
 - 📍 **Location:** Remote
 - 💼 **Open to:** Software Engineering Internships & Freelance Opportunities
-- 🌱 **Currently Learning:** JavaScript • React • Node.js • Full-Stack Development
+- 🌱 **Currently Learning:** JavaScript • React • Node.js
 
 </td>
 
